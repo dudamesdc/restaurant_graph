@@ -1,0 +1,38 @@
+[
+    {
+        "categoria": "Menu Infantil",
+        "prato": "Combo Camaradinha Mini Sanduíche de Camarões",
+        "descricao": "Dois minis pães brioche, camarões (40g) crocantes e maionese artesanal. Acompanham batata-frita e um Fini 15g. *Contém glúten e lactose",
+        "valor": "49,00"
+    },
+    {
+        "categoria": "Menu Infantil",
+        "prato": "Combo Camaradinha Mini Cheeseburger",
+        "descricao": "Dois mini pães brioche, mini hambúrguer (160g), queijo cheddar e maionese artesanal. Acompanham batata-frita e um Fini 15g. *Contém glúten e lactose",
+        "valor": "48,00"
+    },
+    {
+        "categoria": "Menu Infantil",
+        "prato": "Sorvete Camarada",
+        "descricao": "Uma bola de sorvete no sabor creme com calda de chocolate. *Contém glúten e lactose",
+        "valor": "15,00"
+    },
+    {
+        "categoria": "Menu Infantil",
+        "prato": "Frango Camaradinha",
+        "descricao": "Cubinhos de peito de frango (100g). Acompanham fettuccini preparado com molho sugo ou branco. *Contém glúten e lactose *Massa preparada com Grano Duro",
+        "valor": "34,00"
+    },
+    {
+        "categoria": "Menu Infantil",
+        "prato": "Peixe Camaradinha",
+        "descricao": "Palitos de peixe (70g) empanado. Acompanham arroz branco e purê de batata. *Contém glúten e lactose",
+        "valor": "37,00"
+    },
+    {
+        "categoria": "Menu Infantil",
+        "prato": "Filé-Mignon Camaradinha",
+        "descricao": "Cubinhos de filé-mignon (100g). Acompanham arroz branco e batata-frita. *Contém lactose",
+        "valor": "39,00"
+    }
+]
