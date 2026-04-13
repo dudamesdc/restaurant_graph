@@ -3,450 +3,450 @@
         "categoria": "Nespresso",
         "prato": "Nespresso Ristretto Intensidade 9",
         "descricao": "60 ml",
-        "valor": "8,90"
+        "preco": "8,90"
     },
     {
         "categoria": "Nespresso",
         "prato": "Nespresso Leggero Intensidade 6",
         "descricao": "60 ml",
-        "valor": "8,90"
+        "preco": "8,90"
     },
     {
         "categoria": "Nespresso",
         "prato": "Nespresso com Leite",
         "descricao": "60 ml",
-        "valor": "8,90"
+        "preco": "8,90"
     },
     {
         "categoria": "Nespresso",
         "prato": "Nespresso Descafeinado",
         "descricao": "60 ml",
-        "valor": "8,90"
+        "preco": "8,90"
     },
     {
         "categoria": "Nespresso",
         "prato": "Nespresso com Chantilly",
         "descricao": "60 ml",
-        "valor": "9,50"
+        "preco": "9,50"
     },
     {
         "categoria": "Nespresso",
         "prato": "Cappuccino",
         "descricao": "100 ml",
-        "valor": "9,50"
+        "preco": "9,50"
     },
     {
         "categoria": "Diversos",
         "prato": "Água Mineral (com ou sem gás)",
         "descricao": "300 ml",
-        "valor": "8,90"
+        "preco": "8,90"
     },
     {
         "categoria": "Diversos",
         "prato": "Água de Coco - Copo",
         "descricao": "300 ml",
-        "valor": "11,90"
+        "preco": "11,90"
     },
     {
         "categoria": "Diversos",
         "prato": "Agua de Coco - Jarra",
         "descricao": "600 ml",
-        "valor": "19,90"
+        "preco": "19,90"
     },
     {
         "categoria": "Diversos",
         "prato": "Água Tônica",
         "descricao": "350 ml",
-        "valor": "10,00"
+        "preco": "10,00"
     },
     {
         "categoria": "Diversos",
         "prato": "Sucos Naturais - Copo",
         "descricao": "Verificar sabores disponíveis - 300 ml",
-        "valor": "13,90"
+        "preco": "13,90"
     },
     {
         "categoria": "Diversos",
         "prato": "Sucos Naturais - Jarra",
         "descricao": "Verificar sabores disponíveis - 600 ml",
-        "valor": "22,90"
+        "preco": "22,90"
     },
     {
         "categoria": "Diversos",
         "prato": "Suco de Uva Integral",
         "descricao": "300 ml",
-        "valor": "19,90"
+        "preco": "19,90"
     },
     {
         "categoria": "Diversos",
         "prato": "Refrigerantes - Lata",
         "descricao": "Verificar sabores disponíveis - 350 ml",
-        "valor": "9,90"
+        "preco": "9,90"
     },
     {
         "categoria": "Diversos",
         "prato": "Energético",
         "descricao": "250 ml",
-        "valor": "16,90"
+        "preco": "16,90"
     },
     {
         "categoria": "Diversos",
         "prato": "H2OH! Limão",
         "descricao": "500 ml",
-        "valor": "11,90"
+        "preco": "11,90"
     },
     {
         "categoria": "Diversos",
         "prato": "H2OH! Limoneto",
         "descricao": "500 ml",
-        "valor": "11,90"
+        "preco": "11,90"
     },
     {
         "categoria": "Chás e Limonadas",
         "prato": "Chá Preto de Limão com Morango",
         "descricao": "300 ml",
-        "valor": "14,90"
+        "preco": "14,90"
     },
     {
         "categoria": "Chás e Limonadas",
         "prato": "Chá Preto de Limão",
         "descricao": "300 ml",
-        "valor": "14,90"
+        "preco": "14,90"
     },
     {
         "categoria": "Chás e Limonadas",
         "prato": "Limonada Berry",
         "descricao": "Mirtilo com morango - 300 ml",
-        "valor": "15,90"
+        "preco": "15,90"
     },
     {
         "categoria": "Chás e Limonadas",
         "prato": "Limonada Coco e Maracujá",
         "descricao": "300 ml",
-        "valor": "15,90"
+        "preco": "15,90"
     },
     {
         "categoria": "Chás e Limonadas",
         "prato": "Limonada Suíça - Copo",
         "descricao": "300 ml",
-        "valor": "14,90"
+        "preco": "14,90"
     },
     {
         "categoria": "Chás e Limonadas",
         "prato": "Limonada Suíça - Jarra",
         "descricao": "600 ml",
-        "valor": "22,90"
+        "preco": "22,90"
     },
     {
         "categoria": "Chás e Limonadas",
         "prato": "Chá Twinings",
         "descricao": "60 ml",
-        "valor": "8,90"
+        "preco": "8,90"
     },
     {
         "categoria": "Caipis Camarada",
         "prato": "Caipis Tradicionais",
         "descricao": "Sabores Tradicionais: Limão, abacaxi, morango, kiwi, caju e uva. Obs: Vodka Nacional - 300ml",
-        "valor": "Saiba mais"
+        "preco": "Saiba mais"
     },
     {
         "categoria": "Caipis Camarada",
         "prato": "Caipis Especiais",
         "descricao": "Sabores Especiais - Mix de frutas: Limão, abacaxi, morango, kiwi, caju e uva. Obs: Vodka Nacional - 300ml",
-        "valor": "Saiba mais"
+        "preco": "Saiba mais"
     },
     {
         "categoria": "Cerveja",
         "prato": "Stella Pure Gold (Long Neck)",
         "descricao": "330ml",
-        "valor": "14,40"
+        "preco": "14,40"
     },
     {
         "categoria": "Cerveja",
         "prato": "Stella Artois (Long Neck)",
         "descricao": "330 ml",
-        "valor": "13,90"
+        "preco": "13,90"
     },
     {
         "categoria": "Cerveja",
         "prato": "Budweiser (Long Neck)",
         "descricao": "330 ml",
-        "valor": "13,90"
+        "preco": "13,90"
     },
     {
         "categoria": "Cerveja",
         "prato": "Bohemia Pilsen (Long Neck)",
         "descricao": "355 ml",
-        "valor": "13,90"
+        "preco": "13,90"
     },
     {
         "categoria": "Cerveja",
         "prato": "Sem Álcool (Long Neck)",
         "descricao": "350 ml",
-        "valor": "13,90"
+        "preco": "13,90"
     },
     {
         "categoria": "Chopp",
         "prato": "Camarada Zero Grau",
         "descricao": "Chopp Brahma servido em nossas canecas congeladas a -30º! - 340 ml",
-        "valor": "14,90"
+        "preco": "14,90"
     },
     {
         "categoria": "Chopp",
         "prato": "Camaradinha",
         "descricao": "200 ml",
-        "valor": "12,00"
+        "preco": "12,00"
     },
     {
         "categoria": "Chopp",
         "prato": "Camaradão",
         "descricao": "600 ml",
-        "valor": "20,90"
+        "preco": "20,90"
     },
     {
         "categoria": "Vodkas",
         "prato": "Vodka Nacional",
         "descricao": "50 ml",
-        "valor": "10,90"
+        "preco": "10,90"
     },
     {
         "categoria": "Vodkas",
         "prato": "Vodka Internacional",
         "descricao": "50 ml",
-        "valor": "19,90"
+        "preco": "19,90"
     },
     {
         "categoria": "Vodkas",
         "prato": "Absolut Extrakt",
         "descricao": "50 ml",
-        "valor": "20,90"
+        "preco": "20,90"
     },
     {
         "categoria": "Gin",
         "prato": "Beefeater",
         "descricao": "50 ml",
-        "valor": "21,90"
+        "preco": "21,90"
     },
     {
         "categoria": "Licores",
         "prato": "43 (Importado)",
         "descricao": "50 ml",
-        "valor": "30,00"
+        "preco": "30,00"
     },
     {
         "categoria": "Licores",
         "prato": "Drambuie (Importado)",
         "descricao": "50 ml",
-        "valor": "26,00"
+        "preco": "26,00"
     },
     {
         "categoria": "Licores",
         "prato": "Baileys (Importado)",
         "descricao": "50 ml",
-        "valor": "29,00"
+        "preco": "29,00"
     },
     {
         "categoria": "Licores",
         "prato": "Cointreau (Importado)",
         "descricao": "50 ml",
-        "valor": "25,00"
+        "preco": "25,00"
     },
     {
         "categoria": "Licores",
         "prato": "Amarula (Importado)",
         "descricao": "50 ml",
-        "valor": "26,00"
+        "preco": "26,00"
     },
     {
         "categoria": "Licores",
         "prato": "Frangelico (Importado)",
         "descricao": "50 ml",
-        "valor": "29,00"
+        "preco": "29,00"
     },
     {
         "categoria": "Destilados",
         "prato": "Cachaça",
         "descricao": "50 ml",
-        "valor": "6,90"
+        "preco": "6,90"
     },
     {
         "categoria": "Destilados",
         "prato": "Cachaça Envelhecida",
         "descricao": "50 ml",
-        "valor": "8,90"
+        "preco": "8,90"
     },
     {
         "categoria": "Destilados",
         "prato": "Campari",
         "descricao": "50 ml",
-        "valor": "10,90"
+        "preco": "10,90"
     },
     {
         "categoria": "Destilados",
         "prato": "Tequila Jose Cuervo (Prata)",
         "descricao": "50 ml",
-        "valor": "18,90"
+        "preco": "18,90"
     },
     {
         "categoria": "Destilados",
         "prato": "Tequila Jose Cuervo (Ouro)",
         "descricao": "50 ml",
-        "valor": "23,00"
+        "preco": "23,00"
     },
     {
         "categoria": "Destilados",
         "prato": "Rum Bacardi",
         "descricao": "50 ml",
-        "valor": "11,00"
+        "preco": "11,00"
     },
     {
         "categoria": "Destilados",
         "prato": "Vermouth Martini",
         "descricao": "50 ml",
-        "valor": "12,00"
+        "preco": "12,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Chivas 12 (Dose)",
         "descricao": "50 ml",
-        "valor": "20,90"
+        "preco": "20,90"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Johnnie Walker Black (Dose)",
         "descricao": "50 ml",
-        "valor": "25,90"
+        "preco": "25,90"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Logan (Dose)",
         "descricao": "50 ml",
-        "valor": "22,00"
+        "preco": "22,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Old Parr (Dose)",
         "descricao": "50 ml",
-        "valor": "22,00"
+        "preco": "22,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Buchanan's (Dose)",
         "descricao": "50 ml",
-        "valor": "22,00"
+        "preco": "22,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Ballantine´S 12 (Dose)",
         "descricao": "50 ml",
-        "valor": "21,00"
+        "preco": "21,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Jack Daniel´S (Dose)",
         "descricao": "50 ml",
-        "valor": "21,00"
+        "preco": "21,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Chivas 12 (Garrafa)",
         "descricao": "750 ml",
-        "valor": "279,00"
+        "preco": "279,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Johnnie Walker Black (Garrafa)",
         "descricao": "1 L",
-        "valor": "289,00"
+        "preco": "289,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Logan (Garrafa)",
         "descricao": "700 ml",
-        "valor": "289,00"
+        "preco": "289,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Old Parr (Garrafa)",
         "descricao": "1 L",
-        "valor": "289,00"
+        "preco": "289,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Buchanan's (Garrafa)",
         "descricao": "1 L",
-        "valor": "289,00"
+        "preco": "289,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Ballantine´S 12 (Garrafa)",
         "descricao": "1 L",
-        "valor": "279,00"
+        "preco": "279,00"
     },
     {
         "categoria": "Whisky 12 Anos",
         "prato": "Jack Daniel´S (Garrafa)",
         "descricao": "750 ml",
-        "valor": "289,00"
+        "preco": "289,00"
     },
     {
         "categoria": "Whisky 8 Anos",
         "prato": "Ballantine´s Finest (Dose)",
         "descricao": "50 ml",
-        "valor": "17,00"
+        "preco": "17,00"
     },
     {
         "categoria": "Whisky 8 Anos",
         "prato": "Jameson (Irish Whiskey) (Dose)",
         "descricao": "50 ml",
-        "valor": "17,00"
+        "preco": "17,00"
     },
     {
         "categoria": "Whisky 8 Anos",
         "prato": "Jhonnie Walker Red (Dose)",
         "descricao": "50 ml",
-        "valor": "18,00"
+        "preco": "18,00"
     },
     {
         "categoria": "Whisky 8 Anos",
         "prato": "Black & White (Dose)",
         "descricao": "50 ml",
-        "valor": "17,00"
+        "preco": "17,00"
     },
     {
         "categoria": "Whisky 8 Anos",
         "prato": "J&B (Dose)",
         "descricao": "50 ml",
-        "valor": "18,00"
+        "preco": "18,00"
     },
     {
         "categoria": "Whisky 8 Anos",
         "prato": "Ballantine´s Finest (Garrafa)",
         "descricao": "750 ml",
-        "valor": "180,00"
+        "preco": "180,00"
     },
     {
         "categoria": "Whisky 8 Anos",
         "prato": "Jameson (Irish Whiskey) (Garrafa)",
         "descricao": "750 ml",
-        "valor": "180,00"
+        "preco": "180,00"
     },
     {
         "categoria": "Whisky 8 Anos",
         "prato": "Jhonnie Walker Red (Garrafa)",
         "descricao": "1 L",
-        "valor": "190,00"
+        "preco": "190,00"
     },
     {
         "categoria": "Whisky 8 Anos",
         "prato": "Black & White (Garrafa)",
         "descricao": "1 L",
-        "valor": "180,00"
+        "preco": "180,00"
     },
     {
         "categoria": "Whisky 8 Anos",
         "prato": "J&B (Garrafa)",
         "descricao": "1 L",
-        "valor": "180,00"
+        "preco": "180,00"
     }
 ]
