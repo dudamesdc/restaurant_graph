@@ -1,5 +1,4 @@
 import os
-from scraper import bambu_scraper, camaroes_scraper
 from ner_processor import build_graph
 import networkx as nx
 
@@ -7,8 +6,7 @@ import networkx as nx
 def main():
     print("--- Iniciando Pipeline de Extração de Restaurantes ---")
     print("\n1. Extraindo dados dos arquivos HTML...")
-    bambu_scraper()
-    camaroes_scraper()
+    
 
     print("\n2. Processando descrições com NER e construindo o Grafo (NetworkX)...")
     base_path = os.path.dirname(os.path.abspath(__file__))

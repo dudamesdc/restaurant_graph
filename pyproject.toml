@@ -9,7 +9,11 @@ dependencies = [
     "matplotlib>=3.10.8",
     "networkx>=3.6.1",
     "pdfplumber>=0.11.9",
+    "pt-core-news-lg",
     "pyvis>=0.3.2",
     "scipy>=1.17.1",
     "spacy>=3.8.14",
 ]
+
+[tool.uv.sources]
+pt-core-news-lg = { url = "https://github.com/explosion/spacy-models/releases/download/pt_core_news_lg-3.8.0/pt_core_news_lg-3.8.0-py3-none-any.whl" }
