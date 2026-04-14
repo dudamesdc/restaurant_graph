@@ -1,1179 +1,1179 @@
 [
     {
-        "categoria": "Others",
-        "prato": "N/A",
-        "descricao": "No description",
-        "preco": "Consult"
+        "categoria": "Outros",
+        "prato": "N/D",
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
-        "categoria": "Others",
-        "prato": "N/A",
-        "descricao": "No description",
-        "preco": "Consult"
+        "categoria": "Outros",
+        "prato": "N/D",
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
-        "categoria": "Others",
-        "prato": "N/A",
-        "descricao": "No description",
-        "preco": "Consult"
+        "categoria": "Outros",
+        "prato": "N/D",
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
-        "categoria": "Others",
-        "prato": "N/A",
-        "descricao": "No description",
-        "preco": "Consult"
+        "categoria": "Outros",
+        "prato": "N/D",
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Destaque",
         "prato": "Coco Bambu Branco Português  Alentejano",
         "descricao": "Produzido com as uvas Antão Vaz, Arinto e Alvarinho, este vinho de aspeto límpido e cristalino, possui aroma jovem, sugerindo notas citrinas e uma agradável sensação mineral. Refrescante e aromático, é ideal para acompanhar peixes e frutos do mar. No rótulo observamos a assinatura do nosso fundador Afranio Barreira, bem como a foto do primeiro restaurante em 1989.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destaque",
         "prato": "Vinho Coco Bambu Brut",
         "descricao": "Trata-se de um Brut 60% Chardonnay e 40% Pinot Noir, elaborado por meio do método Champenoise. A bebida, maturada em caves subterrâneas, é leve, fresca e revela notas de frutas tropicais e exóticas. Também apresenta perlage fina e persistente. Sua personalidade única permite grande variedade de harmonizações, especialmente com peixes, carnes brancas, massas e molhos leves.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destaque",
         "prato": "Coco Bambu Brut Rosé",
         "descricao": "Elaborado pelo grupo casa valduga, é leve de muito frescor, perlagem fina intensa de ótima persistência, na boca revela aromas de frutas tropicais, ideal para harmonizar com frutos do mar, peixes e carnes brancas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destaque",
         "prato": "Coco Bambu Rosé Português Alentejano",
         "descricao": "Vinho Português Alentejano, cor salmão pálido brilhante. Aroma cativante pela sua frescura mineral. Na boca mostra corpo médio, notas de toranja verde e pele de ameixa branca.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Mumm Brut",
         "descricao": "Apresenta cor amarelo brilhante com delicados reflexos dourados. Perlage fino, intenso, de bela intensidade e sutileza. Aroma rico, fresco, vívido e elegante. Na boca mostra uma rica harmonia de sensações, com excelente equilíbrio e boa complexidade.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Benjamin Nieto Chardonnay",
         "descricao": "Apresenta uma cor amarela, levemente intensa, com reflexos esverdeados.Aromas predominantes de frutas cítricas, tropicais e maçã verde. Com bom frescor, característico da variedade. Vinho elegante, fresco e com boa acidez.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Trapiche Vineyards Chardonnay",
         "descricao": "De cor amarelo palha, este branco apresenta um nariz médio exsudando aromas florais e frutados. Descubra este vinho de corpo médio que expressa uma acidez viva e uma textura ampla. Ele também revela um mouthfeel médio que leva a um acabamento médio.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Luigi Bosca Finca La Linda Unoaked Chardonnay",
         "descricao": "Cuidadosa seleção de uvas, seguida do desengace. Primeiramente é realizado um resfriamento das uvas, que logo passam à prensa pneumática por 1 hora. Posteriormente passa-se o líquido obtido a tanques de decantação por 24-48 horas, e em seguida a tanques de fermentação a temperatura controlada de 15° C, com leveduras naturais, até o fim da fermentação. Estabiliza-se o vinho, que sofre então uma ligeira filtração antes de ser engarrafado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Callia Alta Torrontés",
         "descricao": "O segredo da Torrontés está em equilibrar a riqueza dos aromas florais e de frutas perfumadas como lichia e pêssego com o frescor e equilíbrio que o clima de San Juan oferece.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Colomé  torrontes",
         "descricao": "Paladar\nEm boca, aporta frescor de frutas tropicais e cítricas também, uma certa densidade ao palato. Traz um pouco de goiaba, uva verde madura e um toquezinho bem floral.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Alfredo Roca Chardonnay",
         "descricao": "Vinho branco de aromas de frutas brancas e toque lácteo. No paladar, possui boa acidez e ótimo sabor.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Alamos Chardonnay",
         "descricao": "Ao saborear o Alamos Chardonnay, você será surpreendido por sua acidez equilibrada e sua textura cremosa. Os sabores vibrantes de frutas cítricas se combinam harmoniosamente com nuances de pêssego e uma nota refrescante de maçã verde, proporcionando uma experiência de sabor única e marcante.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Alamos Sauvignon Blanc",
         "descricao": "De uma cor amarelo-esverdeada, Alamos Sauvignon Blanc é um vinho branco que oferece intensos aromas de toranja e frutas cítricas frescas. No palato, mostra frutas suculentas com a doçura e a acidez bem balanceadas. Possui um final fresco, longo e harmônico. Alamos Sauvignon Blanc é elaborado por Catena Zapata com uvas de vinhedos plantados em altitudes elevadas. Excelente relação qualidade/preço.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Terrazas de Los Andes Chardonnay",
         "descricao": "Frutas amarelas, cítrico, baunilha.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Luigi Bosca Riesling",
         "descricao": "Um dos poucos vinhos argentinos feitos com essa grande uva! Produzido a partir de um vinhedo com mais de 60 anos, exibe aroma típico e elegante, de cítricos (limão, lima), rosa, pêssego e mineral. Mediano de corpo, seco, acidez vigorosa, deliciosa, ótima persistência.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Catena Zapata Catena Chardonnay",
         "descricao": "Aromas cítricos e boa acidez fazem deste vinho uma boa pedida para acompanhar aperitivo.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Catena Zapata Catena Chardonnay",
         "descricao": "Aromas cítricos e boa acidez fazem deste vinho uma boa pedida para acompanhar aperitivo.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Angelica Zapata Chardonnay",
         "descricao": "Angelica Zapata é o melhor Chardonnay de Catena produzido para o mercado interno argentino, onde é considerado o melhor branco do país. Incrivelmente concentrado e potente, possui uma textura redonda e macia, com um leve toque amanteigado. As uvas são do magnífico vinhedo Adrianna, considerado o primeiro Grande Cru da América do Sul e localizado a 1480m de altitude. A grande amplitude térmica e as temperaturas mais baixas dão origem a uma elegância e profundidade que são encontradas apenas nos melhores Chardonnays do mundo.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Angelica Zapata Chardonnay",
         "descricao": "Angelica Zapata é o melhor Chardonnay de Catena produzido para o mercado interno argentino, onde é considerado o melhor branco do país. Incrivelmente concentrado e potente, possui uma textura redonda e macia, com um leve toque amanteigado. As uvas são do magnífico vinhedo Adrianna, considerado o primeiro Grande Cru da América do Sul e localizado a 1480m de altitude. A grande amplitude térmica e as temperaturas mais baixas dão origem a uma elegância e profundidade que são encontradas apenas nos m",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Catena Alta Chardonnay",
         "descricao": "As uvas são colhidas no vinhedo Adrianna, com uma das altitudes mais elevadas do mundo e uma grande amplitude térmica, gerando uvas com maturação perfeita. É um grande vinho, mui",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Alamos Malbec Rosé",
         "descricao": "Maceração atenuada das uvas antes da fermentação alcoólica que acontece em cubas de aço inoxidável.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Trapiche Astica Malbec",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "San Telmo Malbec",
         "descricao": "Um pouco intenso demais sozinho, mas combina muito bem com carne de porco e carne, notas de frutas vermelhas, especialmente na parte de trás da boca, com uma última trilha e sabor, você pode sentir claramente que é um vinho jovem que não envelheceu , com uma cor vermelha translúcida e um mineral e de alguma forma suaves.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Portillo Malbec",
         "descricao": "Vinho vermelho rubi com tons violáceos muito intensos, exibindo um nariz fresco e frutado, reforçado por notas de ameixas, amoras e um toque de baunilha. Sabores de frutas frescas, suportados por taninos doces e redondos, e boa estrutura contribuída por carvalho.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Callia Alta",
         "descricao": "Cor vermelho com tons de violeta muito vívida. Aromas com sensações de fruta madura em compotas onde estão as sensações que lembram figos maduros e algumas notas de especiarias, descritores típicosdel sirah. O paladar é caracterizada pela sua frescura e doçura, este alcançado a partir da presença de taninos doces e suaves, o que torna muito fácil de beber.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Finca La Linda Malbec",
         "descricao": "Cor rubi, algum traço purpúreo na borda. Amistoso como espera-se com ameixa, cereja, violeta e fundo a baunilha. Macio, de médio corpo, persistente",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Alamos Malbec",
         "descricao": "Com imenso prazer, apresento a você o excepcional Vinho Tinto Alamos Malbec 2021.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Vinho Tinto Saurus Pinot Noir",
         "descricao": "Torta folhada com cogumelos variados. Pequenas aves em cocções diversas (ao forno, grelha ou em úmido). Queijos delicados como Brie, Camembert ou de cabra com cinzas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Alfredo Roca Pinot Noir",
         "descricao": "Cor vermelha de uma grande vivacidade que é mostrada nos seus tons rubis, intenso e profundo para a variedade Pinot Noir. É elegante e interessante sua variação de aromas. Na boca é complexo e delicado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Uxmal",
         "descricao": "Vinificação tradicional com leveduras selecionadas e temperatura controlada. Maceração realizada entre 15 e 20 dias. Fermentação malolática completa.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Uxmal Alto Cabernet Sauvignon / Merlot",
         "descricao": "Alto Uxmal é o nome de um vinhedo de 25 ha localizado na região de Agrelo em Mendoza. Solos de aluviões com uma ótima irrigação perfeita para a cultura da videira. Grande amplitude térmíca particular do clima desértico do Mendoza. Rendimento limitado. Colheita manual.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Las Moras Black Label",
         "descricao": "Coloração rubi de média concentração. Focado na fruta, com amora e framboesa, ao fundo impressões terrosas e levemente defumadas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Alamos Malbec",
         "descricao": "Com imenso prazer, apresento a você o excepcional Vinho Tinto Alamos Malbec 2021.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Vinho Terrazas de los Andes Reserva",
         "descricao": "Aromas de frutas vermelhas maduras, como framboesa, amora e ameixa, seguidos de notas de especiarias como baunilha.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Luigi Bosca Pinot Noir Reserva",
         "descricao": "Vinho de cor vermelho rubi brilhante com aromas de morangos, violetas e leve toque de canela. Na boca apresenta corpo médio e boa concentração devido à passagem por barris de carvalho. Sua acidez é fresca e seus taninos são leves e finos. Final longo e frutado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Catena Zapata Catena Malbec",
         "descricao": "Profunda cor violeta escuro com reflexos rubi. Seu aroma remete a groselhas maduras, especiarias doces, frutas vermelhas e cassis. Em boca é um vinho complexo, com notas de cassis, tabaco e pimenta preta. Este Cabernet Sauvignon se caracteriza por sua elegância, seus taninos firmes e sólida estrutura, e seu final longo e persistente.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Catena Zapata Catena Malbec",
         "descricao": "Profunda cor violeta escuro com reflexos rubi. Seu aroma remete a groselhas maduras, especiarias doces, frutas vermelhas e cassis. Em boca é um vinho complexo, com notas de cassis, tabaco e pimenta preta. Este Cabernet Sauvignon se caracteriza por sua elegância, seus taninos firmes e sólida estrutura, e seu final longo e persistente.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Alma Negra",
         "descricao": "O consagrado Alma Negra é um delicioso \"corte secreto\" de Tikal, que não revela quais uvas ou qual a proporção que entra neste intrigante blend. O bouquet é exuberante e exótico, enquanto no palato o vinho se mostra macio e intenso, com personalidade bastante peculiar. Um dos maiores sucessos entre os vinhos argentinos.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Bodega Septima Gran Reserva",
         "descricao": "Cor: Vermelho intenso com reflexos púrpura. Aroma: Muito complexo e intenso; com notas tostadas unidas aos sutis aromas de violeta, caramelo, chocolate amargo e geléia de figo. Paladar: Encorpado, com taninos maduros. Seu começo é doce e o final prolongado com notas de geléia de frutas vermelhas maduras, eucaliptos e tostados. SEPTIMA GRAN RESERVA Gran Reserva é a máxima expressão do trabalho de viticultura e enologia da Bodega Septima. É um vinho elaborado tendo como base a seleção dos melhores vinhos do ano. É a liberdade de que as porcentagens e variedades que o compõem sejam harmonizadas de forma a buscar o melhor vinho em cada ano.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Dv Catena Cabernet Malbec",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Dv Catena Cabernet Malbec",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Dv Catena Malbec",
         "descricao": "Fermentação tradicional com controle de temperatura por 14 dias e maceração por 25 dias.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Catena Zapata Angelica Zapata Malbec",
         "descricao": "Este disputado Malbec é produzido para o mercado interno argentino, onde é cultuado e esgota-se rapidamente, alcançando preços estratosféricos em safras antigas. As uvas vêm de vinhas selecionadas, plantadas em grande altitude, com rendimentos muito baixos, que resultam em um vinho muito complexo e exuberante, com excelente presença de boca e enorme capacidade de envelhecimento.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Argentina",
         "prato": "Catena Zapata Angelica Zapata Malbec",
         "descricao": "Este disputado Malbec é produzido para o mercado interno argentino, onde é cultuado e esgota-se rapidamente, alcançando preços estratosféricos em safras antigas. As uvas vêm de vinhas selecionadas, plantadas em grande altitude, com rendimentos muito baixos, que resultam em um vinho muito complexo e exuberante, com excelente presença de boca e enorme capacidade de envelhecimento.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Miolo Terranova Moscatel",
         "descricao": "Espumante natural elaborado, pelo processo italiano Asti, com uvas Moscato, cultivadas no Vale do São Francisco/BA. É um vinho espumante para sobremesa, mas também pode ser servido como aperitivo. É uma bebida típica do Verão (de baixa graduação alcoólica) que encanta pelo seu aroma floral e seu fácil paladar, doçura e leveza em boca. Visão: Cor amarelo-esverdeada clara, perlage fino, intenso e persistente que termina com ótima coroa.\nOlfato: Aroma intenso, fresco e típico, com notas de jasmim e outras flores brancas, guaraná, cítricos e mel.\nGosto: Leve e doce ao paladar, com um final de boca jovial e refrescante.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Casa Valduga Naturelle Moscatel",
         "descricao": "Visão: Límpido e brilhante, perlage fino e constante.\n\nOlfato: A elegância é traduzida através dos aromas intensos florais e frutados, típicos da variedade moscato.\n\nPaladar: Espumante leve e agradável, possui acidez equilibrada e refrescante.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Casa Valduga Arte Tradicional Brut",
         "descricao": "Champenoise: elaboração do vinho base, engarrafamento e refermentação do vinho em garrafas de espumante, temperatura controlada na cave em 12ºC, maturação por 12 meses ocorrendo autólise de leveduras, remuage em pupitres, degorgement, arrolhamento e rotulagem.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Arte Brut Rosé",
         "descricao": "A ARTE deste espumante está na composição harmônica de 60% da variedade Chardonnay e 40% de Pinot Noir. Com coloração em tons de rosa salmão, apresenta perlage fina e persistente. Elegante e refrescante, possui bouquet delicado com notas florais e frutadas, lembrando pêssego e amora.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "La Jovem Brut Rosé",
         "descricao": "Cereja claro, com perlage fino e persistente, frutas vermelhas (cerejas, framboesas), mas também há destaque para as notas cítricas e um leve mineral, prima pelo frescor, com uma estrutura bem balanceada entre açúcar e acidez, final frutado e cremoso",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Chandon Réserve Brut",
         "descricao": "O aroma apresenta características florais (flores brancas) e frutadas (cítricos, maçã e um toque de abacaxi) com uma nuance de pão fresco. O paladar começa por um ataque franco de uma acidez equilibrada, continua com uma nítida sensação de redondeza e frescor; e finaliza com notas de frutas secas e cítricas com uma persistência média.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Chandon Brut Rosé",
         "descricao": "A degustação do Chandon Brut Rosé começa pela sedução da reluzente e delicada cor rosada lembrando a goiaba junto às características de uma ótima efervescência: borbulhas finas, ativas e numerosas com uma espuma abundante formando um colarinho persistente na taça.  Continua conquistando pela sinfonia de aromas a frutas vermelhas com toques sutis de especiarias doces. E leva ao prazer de uma experiência sensorial única de um paladar extremamente equilibrado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Luiz Argenta Jovem Brut",
         "descricao": "Perlage fina e persistente, de coloração amarela com reflexos esverdeados.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Casa Valduga 130 Brut",
         "descricao": "Espumante elaborado com uvas Chardonnay e Pinot noir, límpido e brilhante, de coloração dourada e fascinante perlage. Bouquet elegante e intenso de frutas secas, amêndoas e um leve tostado. O paladar é persistente e cremoso, de amplo e pleno sabor, harmônico. Combina bem com pratos frios, peixes, carnes brancas, queijos mais jovens e massas com molhos leves.  Método champenoise.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Vasto Branco",
         "descricao": "Branco composto a partir de Trebbiano, Catarrato e Chardonnay, sem passagem por madeira. Fresco e fácil de beber, mostra frutas brancas acompanhadas de notas florais e de ervas, que se confirmam na boca. De corpo médio, tem acidez na medida, textura cremosa e final com toques cítricos e de pêras",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Naturelle Branco",
         "descricao": "Visual: Amarelo esverdeado, Brilhante, Límpido.Olfativo: Florais, Frutado, Melão, Pêssego.Gustativo: Equilibrado, Frutado, Leve.Harmonização: Queijos azuis, doces, frutas, sobremesas e pratos leves.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Suave Naturelle Cabernet Franc Pinot",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Bueno Bellavista Estate Sauvignon Blanc",
         "descricao": "A Sauvignon Blanc, uma uva enigmática, encontrou um parceiro no terroir da Campanha Gaúcha. Este vinho é inspirado nos excepcionais resultados da Nova Zelândia, trazendo consigo personalidade e exuberância",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "L.A Clássico Chardonnay",
         "descricao": "Coloração amarela pálida com reflexos esverdeados. Aromas elegantes que lembram abacaxi maduro, damasco e pera. Sabor acentuado e persistente, acidez marcante porem equilibrada, leve toque sápido e retrogosto que lembra os aromas sentidos no olfato.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Casa Valduga Terroir Gewurztraminer",
         "descricao": "Terroir Gewurztraminer: A vocação vitivinícola da Famiglia Valduga aflorou no coração do Vale dos Vinhedos, onde há mais de um século era denominado como Via Leopoldina, sendo impulsionados pela vontade de prosperar e extrair do solo o suficiente para se viver com dignidade. Respeitar o terroir e compreender que cada casta de uva irá se desenvolver de maneira distinta são as raízes que alicerçam o desenvolvimento de uma grande história. A procura incessante pela verdadeira identidade de cada parcela de solo e seu minucioso estudo, nos estimula a buscarmos os melhores resultados. Compreendendo que a alma do vinho está conectada ao clima, solo, relevo e a constante mudança dos ventos, fez com que a Linha Terroir fosse concebida, valorizando o potencial de cada varietal, cultivados nas principais regiões vitícolas do Rio Grande do Sul.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "LUIZ ARGENTA L.A JOVEM",
         "descricao": "Elaborado com uvas da variedade Gewürztraminer, este vinho branco possui coloração amarelo claro com reflexos esverdeados. Aroma delicado, típico e exótico do varietal, que lembra flores como jasmins, rosas e erva doce. Na boca, apresenta acidez e álcool equilibrados, bom volume em boca, fresco e leve.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Luiz Argenta La Jovem Riesling",
         "descricao": "Coloração amarela pálido com intensos reflexos esverdeados.\nAromas intensos de flores brancas, com leve toque frutado de pêssego, pera e anis.\nGrande frescor e fineza, acompanhado de um belo volume em boca.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Bueno Momentos Vin Rosé",
         "descricao": "Inspirado no legado de Provence, a poesia e personalidade que só um autêntico rosé pode proporcionar.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Casa Valduga Leopoldina Premium Merlot Rosé",
         "descricao": "Coloração vermelho cereja, límpido e brilhante. Intensidade aromática marcante com notas de frutas maduras, como framboesa, morango e cereja. Em boca é cremoso e de acidez moderada, com retrogosto frutado. Agradável ao paladar é um vinho refrescante e aveludado, com longa persistência.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "BUENO BELLAVISTA DESIRÉE MERLOT",
         "descricao": "A sensibilidade de conectar paixões. A delicadeza de um Merlot de textura elegante .",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Casa Valduga Leopoldina Terroir Merlot",
         "descricao": "Com elegância, complexidade e personalidade, possui coloração rubi com tons violáceos e aromas com notas de amora, cacau, especiarias doces e baunilha. \nDe acidez moderada, em boca é encorpado, com taninos macios e retrogosto longo com notas amadeiradas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Bueno Petit Verdot Reserva",
         "descricao": "Ossobuco, costelas de cordeiro, risotos com cogumelos Portobello e arroz selvagem, além de queijos como pecorino ou grana padano.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Bueno Pinot Noir Reserva",
         "descricao": "Sob influência de solo pedregoso e clima quente, a Pinot Noir evidencia toda sua essência e ancestralidade. De textura incrivelmente sedosa, enaltece a diversidade de expressões, permeando entre frutas, flores e mineralidade.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Bueno Petit Verdot Reserva",
         "descricao": "Ossobuco, costelas de cordeiro, risotos com cogumelos Portobello e arroz selvagem, além de queijos como pecorino ou grana padano.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Casa Valduga Terroir Cabernet Sauvignon",
         "descricao": "Vermelho rubi profundo e intenso. Possui excelente complexidade aromática. A madeira integra-se de maneira simbiótica, apresentando-se através de marcantes aromas de especiarias. Também remete à cassis, ameixa preta e amêndoas. Apresenta corpo intenso, denotando o clássico caráter do Cabernet Sauvignon. Sua acidez é moderada, e os taninos médios, gerando excelente volume em boca. Seu retrogosto é intenso e persistente.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Pizzato Merlot Reserva",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Brasil",
         "prato": "Paralelo 31 Gran Reserva",
         "descricao": "O PARALELO 31, PONTO DE ENCONTRO DO TERROIR PERFEITO DO NOVO MUNDO, É O QUE UNE AUSTRÁLIA, NOVA ZELÂNDIA, ÁFRICA DO SUL, CHILE, ARGENTINA E A CAMPANHA, DO RIO GRANDE DO SUL.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Chilano Sauvignon Blanc",
         "descricao": "Um vinho de cor amarela com tons esverdeados e intenso aroma de abacaxi, banana e frutas cítricas. Na boca é suave e com acidez balanceada.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Tantehue",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Concha Y Toro Casillero Del Diablo Chardonnay",
         "descricao": "É um vinho encorpado de longo final doce. Tem cor amarelo limão brilhante, além de aroma e sabor frutado com notas de abacaxi, frutas cítricas, pêssegos e toques baunilha.\n\nEquilibrado, harmoniza com peixes, frutos do mar e queijos.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Indómita Varietal Sauvignon Blanc",
         "descricao": "Um vinho brilhante. Com coloração amarela e nuances esverdeados. Possui um aroma cítrico muito intenso e expressivo com um toque exuberante de frutas, pimenta e flores brancas. É muito equilibrado na acidez, com personalidade e toques minerais e herbáceos. Final muito refrescante.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Terranoble Chardonnay",
         "descricao": "Palha cristalino com tons verdeais. Mostra um nariz intenso em fruta madura, abacaxi e pêra, suaves notas cítricas, alguns aportes herbáceos e amanteigados. Macio, com delicioso frescor a inundar o palato.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Vinho Leon Tarapaca Chardonnay",
         "descricao": "Com delicadas notas de banana e pêssego mescladas a toques tostados, este jovem Chardonnay é um branco agradável e fácil de gostar. Na boca é leve, equilibrado e cheio de frescor",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Ramirana Chardonnay Sauvignon Blanc Reserva",
         "descricao": "Amarelo pálido com tons verdes claros na borda.\nEste vinho é complexo e delicado, revelando frutas tropicais, como manga e verde\nabacaxi do Chardonnay, mesclado com notas cítricas e florais do\nSauvignon Blanc. Sutis notas minerais do solo complementam a fruta varietal de\nambas as variedades.\nEste vinho é macio e fresco, com acidez longa e persistente e bom corpo. O\na mineralidade volta a aparecer no palato, contribuindo com complexidade e frescura.\n​",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Carmen Premier Reserva Chardonnay",
         "descricao": "Um belíssimo resultado em que domina uma estimulante mineralidade calcária por baixo de um sofisticado frutado a maçãs e pêssegos. Um toque floral, base rica que suaviza o sabor e o torna mais atraente.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Tarapaca Gran Reserva Chardonnay",
         "descricao": "Rico e complexo no nariz, ostenta aromas cítricos (de casca de laranja), de pêssego, amanteigados e de padaria conferidos pelo estágio em carvalho.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Ventisquero Grey Chardonnay",
         "descricao": "Estágio Em Carvalho Francês De Primeiro E Segundo Uso. A cor do vinho Ventisquero Grey Chardonnay é amarela dourada claro. No nariz é elegante, fresco e sofisticado, ressaltando aromas a frutas tropicais tipo mamão (papaia) e manga que integram de forma suave e harmoniosa aromas de mel e de baunilha. Na boca é um vinho redondo, de rica estrutura e acidez equilibrada, deixando um final de boca fresco e suave onde predominam aromas frutais e leves toques de baunilha.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Montes Alpha Chardonnay",
         "descricao": "Seus aromas são complexos, revelando uma profusão de frutas tropicais maduras, como mamão, pêssego, toranja amarela e Physalis. Além disso, surgem notas provenientes do seu envelhecimento em barricas de carvalho francês, como baunilha, torrone e tosta média, harmoniosamente integradas aos aromas frutados.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Carmen Insigne Carmenere",
         "descricao": "Saboroso tinto elaborado com a mais emblemática casta chilena, aCarmenère. Parcialmente barricado, para manter toda a exuberânciada fruta. Na boca mostra taninos suaves e macios, com sabor de geleiade frutas vermelhas, notas de menta e especiarias.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Terranoble Cabernet Sauvignon 375ml",
         "descricao": "Desde sua fundação,em 1993, o lema da Terranoble é “encantar e cativar com vinhos autênticos, reflexo do nosso espírito pioneiro e da nobreza da nossa terra”. Hoje conta com 4 vinhedos nas regiões do Maule, Colchagua e Casablanca, em localizações privilegiadas. Com estilo contemporâneo, os vinhos esbanjam frescor e fruta aliados a estrutura e intensidade, deixando transparecer a impressão digital do terroir. A Terranoble foi a primeira vinícola chilena a trabalhar a Carmenère de um modo realmente sério, desenvolvendo experimentos e pesquisas em diferentes áreas, o que resultou no projeto CA, composto de dois varietais de diferentes vinhedos do Colchagua. Desde 2019, a vinícola possui certificado de sustentabilidade, e a partir de 2020, todos os vinhos são certificados veganos pela V-Label.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Chilano Carménère",
         "descricao": "Coloração rubi vermelho com um leve traço púrpura, tem um aroma expressivo, buquê jovem e destaca-se fruta vermelha fresca como morango, cereja e groselha. Harmoniza com baunilha e chocolate.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Tarapacá Cosecha Tarapaca Cabernet Sauvignon",
         "descricao": "Fermentado e macerado em tanques de aço inoxidável a temperaturas controladas, para assim extrair seu corpo e caráter. Apresenta uma coloração vermelha violácea com aromas e sabores próprio da variedade, destacam-se os frutos vermelhos como ameixas e cerjas, juntamente com notas de baunilha. Apresenta um corpo médio, equilibrado e muito fácil de beber",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Ventisquero Tantehue Cabernet Sauvignon",
         "descricao": "6 Meses Em Tanque De Inox",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Bodega Vieja Cabernet Sauvignon Merlot",
         "descricao": "Um vinho tinto com personalidade, esta mistura é fresca e frutada e tem sabores que lembram mirtilo, ameixa e cereja preta. Possui um final agradável, com taninos suaves e redondos, e uma textura sedosa.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Casillero del Diablo Cabernet Sauvignon",
         "descricao": "Brilhante cor vermelho escuro. Aroma de cerejas maduras, groselha e ameixas com um toque de baunilha. Bom corpo, taninos aveludados e harmoniosos. Leve sabor de ameixas e cerejas, generosamente mesclado ao toque defumado do carvalho americano.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Indomita Varietal Carmenere",
         "descricao": "Túnica vermelha intensa com alguns tons de violeta. Frutos silvestres, trufa e violetas e o toque de assinatura de especiarias e aromas grama deste vinho rico, intenso e chileno. Taninos suaves, sem carvalho, só de frescura e harmonia. Um vinho franco e sincero.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "León De Tarapacá Cabernet Sauvignon",
         "descricao": "Apresenta cor rubi com reflexos violáceos. Boa intensidade aromática, com notas de frutas vermelhas como groselha e cassis, ligeiros toques mentolados e de especiarias como pimenta negra e baunilha. Apresenta-se equilibrado, boa estrutura, taninos macios e um retrogosto agradável.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Bisquertt Petirrojo Reserva Cabernet Sauvignon",
         "descricao": "\"Cor: Rubi intenso com reflexos violáceos.\nAroma: Frutas vermelhas maduras, notas de especiarias e toques tostados e defumados.\nSabor: Encorpado, com taninos presentes e final de boca intenso e elegante.\"",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Vinho Ventisquero Classico Merlot",
         "descricao": "Tinto chileno com aromas de frutas vermelhas frescas, como ameixa, com notas de especiarias e nuance de baunilha. Em boca é frutado, com corpo médio, taninos presentes e gostosa acidez. Elaborado no Valle Central, a linha Clássico da Ventisquero exibe a expressão de uvas que se adaptaram muito bem a esse terroir chileno, como podemos verificar nesse exemplar, com a Merlot.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Yali Wetland Reserva Pinot Noir",
         "descricao": "Coloração vermelho rubi, brilhante e translúcido. Aroma com grande expressão de frutas vermelhas e negras como framboesa e amora. Nuances florais e delicadas notas amadeiradas tornam mais complexo o elegante aroma deste Pinot Noir. É um vinho de corpo delgado e macio. No paladar revela notas de madeira e baunilha, evidenciando a passagem por carvalho. O final de boca é igualmente leve e mostra a harmonia entre a fruta e a madeira.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Carmen Insigne Carmenere",
         "descricao": "Saboroso tinto elaborado com a mais emblemática casta chilena, a\nCarmenère. Parcialmente barricado, para manter toda a exuberância\nda fruta. Na boca mostra taninos suaves e macios, com sabor de geleia\nde frutas vermelhas, notas de menta e especiarias.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Vinho Tinto Ramirana Reserva",
         "descricao": "A uva Carménère é muito similar à Merlot. A origem do nome está relacionada à cor de sua pele, que exibe tonalidade forte de carmim, palavra francesa que, em português, significa um vermelho intenso.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Ventisquero Reserve Merlot",
         "descricao": "Reflete a fiel expressão desta cepa, com uma cor intensa e profunda que, junto com os aromas de frutos maduros, harmonizam com os toques de baunilha entregue pela guarda em barris. Ideal para acompanhar massas, queijos maduros e carnes brancas, caracteriza-se na boca por seu equilíbrio.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Tabalí Pedregoso Gran Reserva Pinot Noir",
         "descricao": "Cor: Rubi intenso.\nAroma: Frutas vermelhas maduras, como morangos e cerejas, notas\nde especiarias doces, além de toques defumados e florais.\nSabor: Médio corpo, com taninos finos e bom frescor, seu final de boca\né frutado com boa elegância e persistência.\nAmadurecimento: 10 meses em barricas de carvalho francês.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Tabali Reserva Merlot",
         "descricao": "Rubi intenso com reflexos violáceos. Frutas vermelhas e pretas maduras, notas de especiarias e toques de chocolate.Médio corpo, com taninos balanceados e boa estrutura, seu final de boca é fresco, boa persistência e elegância.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Cefiro Reserva Pinot Noir",
         "descricao": "Vinho rubi de baixa intensidade. Aromas de frutos em evolução, cassis, ameixa, levemente picante. Na boca tem corpo leve e dócil com final longo e frutado",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Carmen Premier Reserva Carmenère",
         "descricao": "Cor rubi. Aromas picantes de groselha e bagas; corpo médio. Vinho seco com notas de frutas vermelhas com pimenta e especiarias e bom acabamento.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Carmen Premier Reserva Merlot",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Vinho Tarapacá Gran Reserva Cabernet Sauvignon",
         "descricao": "O Vinho Tarapacá Gran Reserva Cabernet Sauvignon revela notas expressivas e intensas de frutas vermelhas, como cereja e framboesa, e de frutas pretas maduras, como ameixa, amora e cassis. Esses aromas frutados se mesclam harmoniosamente com os de especiarias. O envelhecimento em barricas de carvalho entregou ao vinho notas agradáveis e doces, como caramelo, toffee e baunilha. Um Vinho Tinto estruturado, com corpo médio, taninos maduros e boa amplitude. \n\nPAÍS",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Vinho Tarapacá Gran Reserva Cabernet Sauvignon",
         "descricao": "O Vinho Tarapacá Gran Reserva Cabernet Sauvignon revela notas expressivas e intensas de frutas vermelhas, como cereja e framboesa, e de frutas pretas maduras, como ameixa, amora e cassis. Esses aromas frutados se mesclam harmoniosamente com os de especiarias. O envelhecimento em barricas de carvalho entregou ao vinho notas agradáveis e doces, como caramelo, toffee e baunilha. Um Vinho Tinto estruturado, com corpo médio, taninos maduros e boa amplitude. PAÍS",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Indomita Gran Reserva Carignan",
         "descricao": "Cor vermelha intensa. Aromas ricos de flores, frutas vermelhas e escuras frescas. Podem-se definir aromas de coco, menta e pimenta negra. Vinho de boa acidez, textura sedutora e amplo paladar, bem equilibrado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Marques De Casa Concha Cabernet Sauvignon",
         "descricao": "Nascido pelas mãos de Marcelo Papa nas zonas mais privilegiadas para o cultivo da Cabernet Sauvignon na DO Maipo, é um elegante exemplar dos melhores tintos do Chile, com elegância e tipicidade.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Boya Pinot Noir",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Montes Alpha Cabernet Sauvignon",
         "descricao": "O nariz complexo oferece um sublime aroma de frutas silvestres maduras como figo e framboesa complementado com notas de creme de cassis, enquanto temperos como pimenta caiena aparecem sobre um fundo de chocolate amargo, que envolve divinamente os aromas sutis de couro e tabaco.\nPalato com taninos perfeitamente arredondados que acionam a explosão da fruta no meio-palato.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Montes Alpha Carmenere",
         "descricao": "Com 91 pontos de Robert Parker em sua safra inaugural, o Montes Alpha Carménère já desponta como uma das melhores opções desta que é a casta mais emblemática do Chile. Para Parker, trata-se de \"uma soberba interpretação desta fantástica uva\". Concentrado e exuberante, como os demais vinhos da linha Montes Alpha, mostra camadas de frutas maduras e especiarias, sem com caráter excessivamente vegetal de alguns Carmenère. Promete ser um dos maiores sucessos entre os tintos chilenos.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Montes Alpha Pinot Noir",
         "descricao": "“Cor vermelho rubi de média intensidade, limpido e brilhante. Muito aromático, lembrando frutas vermelhas como cereja, framboesa, toque floral, e delicado toque de baunilha. É suculento, acidez facilmente percebida em boca, corpo médio, taninos delicados, elegante e gastronômico.”",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Ventisquero Pangea",
         "descricao": "Encorpado, redondo, taninos maduros e firmes, acidez alta, fresco, um vinho bem estruturado, harmonioso equilíbrio entre fruta e madeira, com notas de especiarias e chocolate, final longo, complexo e agradáve",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Don Melchor Cabernet Sauvignon",
         "descricao": "De cor rubi intenso e brilhante. Aromas complexos de couro, frutas negras e um leve herbáceo. Ao final a baunilha se apresenta. Na boca intensidade de taninos bem domados e cremosidade. Vinho para surpreender o paladar.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Chile",
         "prato": "Don Melchor Cabernet Sauvignon",
         "descricao": "De cor rubi intenso e brilhante. Aromas complexos de couro, frutas negras e um leve herbáceo. Ao final a baunilha se apresenta. Na boca intensidade de taninos bem domados e cremosidade. Vinho para surpreender o paladar.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Chandon Brut Baby",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "J.p. Chenet Brut",
         "descricao": "Cor: Dourado claro com reflexos verdeais com borbulhas finas e persistentesAroma: Bouquet muito fino e delicado, marcado por notas de frutas brancas com toque de pão frescoSabor: Bastante fresco e frutado com notas de damasco e pêssego branco. Apresenta boa intensidade de sabor e também bom equilíbrio entre seus componentesElaboração: Elaborado pelo método Charmat, onde a segunda fermentação é feita em grandes tanques de aço fechados. Neste caso, o vinho permaneceu nos tanques em contato com as leveduras por 6 meses, ganhando um bouquet mais rico e complexo.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Champagne Veuve Clicquot Brut",
         "descricao": "A Brut Yellow Label é elaborado com vinhos de uvas de até 60 crus diferentes, principalmente da variedade Pinot Noir (50 a 55%), responsável pela estrutura típica da Veuve Clicquot. A uva Meunier (15 a 20%) arredonda o champagne, enquanto a Chardonnay (28 a 33%) lhe confere elegância e requinte. A proporção de vinhos de cada variedade varia de acordo com a safra. São utilizados vinhos com o mínimo de 30 meses de maturação em barricas de carvalho francês. De coloração amarelo palha, apresenta perlage fina, aromas intensos de maçã, peras e pêssego, além de notas tostadas e baunilha. No paladar, aparece a mineralidade característaca, o frescor é elegante e cremoso.\nO Veuve Clicquot Brut harmoniza perfeitamente com frutos do mar, pato, salmão, tártare de peixe e parmesão.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Moët & Chandon Impérial Brut",
         "descricao": "Cor amarelada com tons dourados e por seu belíssimo perlage de borbulhas ativas com formação de espuma abundante. Aromas de abacaxi, manga, ameixa amarela e damasco,com nuances de especiarias, canela e baunilha. O paladar é elegante, cremoso e fresco. Final que lembra grapefruit bem maduro, revelando um estilo ousado que surpreende.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Veuve Clicquot Ponsardin Rosé",
         "descricao": "De cor amarelo claro e brilhante com perlage fino e elegante. Aromas que lembram cereja e morango e especiarias. Bem estruturado.Na boca macio e persistente com um bom mousse.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Dom Pérignon Brut Champagne",
         "descricao": "Fazer “o melhor vinho do mundo” era o objetivo de Dom Pierre Pérignon quando assumiu a Abadia Beneditina\nde Hautvillers na região de Champagne na França em 1668. Ele dedicou sua vida em busca da perfeição e por\nisso ficou reconhecido como o criador das técnicas e da filosofia do champagne. Três séculos mais tarde essa\nfilosofia continua na Maison Dom Pérignon com um vinho safrado e criado somente em anos de colheitas\nexcepcionais. Dom Perignon é produzida a partir das uvas Chardonnay e Pinot Noir dos vinhedos selecionados\nentre os melhores (crus) da região. Elaborada unicamente nos anos excepcionais, Dom Pérignon é uma busca\nconstante do sutil equilíbrio entre a perptuação do estilo da Maison e a particularidade de uma colheita.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Bordeaux Franc Beausejour Branco",
         "descricao": "Características Visuais:\nAmarelo Palha Esverdeado.\n\nCaracterísticas olfativas:\nAromas de frutas cítricas com notas de pera e maça verde.\n\nCaracterísticas gustativas:\nNa boca, é frutado e bem equilibrado entre o corpo e acidez.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "La Vieille Ferme Blanc",
         "descricao": "É um ótimo exemplar de qualidade e do frescor que os vinhos do sul da França possuem. Apresenta notas de frutas cítricas, como lima, frutas brancas, como peras e maçãs, notas de flores brancas e toques minerais. Leve, com bom equilibrio e frescor Seu final de boca é agradável.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Petit Chablis",
         "descricao": "Cor verdeal brilhante, reflexos palha. Traz cítricos maduros e maçã no nariz com maior intensidade que demonstra o grande ano na região. Na boca um vinho de bom peso, fresco e mineral. Cítricos maduros e maçã no nariz, de boa intensidade. Muito bem na textura, fresco e mineral.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Petit Chablis Louis Jadot",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Rosé Piscine",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "La Vieille Ferme Rosé",
         "descricao": "Este rosado delicioso é elaborado pela família Perrin, com uvas Cinsault, Grenache e Syrah de cultivo orgânico. Um vinho para beber a toda hora, que combina com uma grande variedade de petiscos, saladas e frutos do mar.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Château Bel Air",
         "descricao": "Vinificação tradicional em cuba de aço inoxidável com controle de temperatura. Maceração longa para uma melhor extração da cor e taninos.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Abel Pinchard Côtes-Du-Rhône",
         "descricao": "Elaboração\nFermentado em tanques de aço inox com temperaturas controladas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "La Vieille Ferme Rouge",
         "descricao": "De coloração rubi intensa com reflexos violáceos, revela um bouquet\naromático complexo, onde destacam-se frutas vermelhas e negras\nmaduras, como cereja, framboesa e groselha, notas defumadas e um\ntoque de especiarias, como pimenta-preta. Um vinho complexo e\nequilibrado. Em boca, apresenta taninos macios e um final longo e\npersistente.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Champagne Taittinger Brut Reserve",
         "descricao": "Apresenta uma cor amarelo dourado, brilhante, com borbulhas muito finas, abundantes, com perlages intensos e persistentes . No nariz, é complexo, expressivo apresentando aromas de brioche, pêssego, flores tipo acácia e espinheiro. Na boca, é vivo, elegante, com ótima cremosidade na boca, com final de boca longo lembrando a mel e amêndoas. Acompanha bem sushis, sashimis, Salmon semi- grelhado, Vieiras e Porco empanado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "França",
         "prato": "Châteauneuf-du-Pape Sélection",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Lambrusco Amabile Branco",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Prosecco Sperone Brut",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Villa Sandi Prosecco Il Fresco Treviso",
         "descricao": "Cor : amarelo palha brilhante com fina e persistente.\nBouquet : frutado e floral, com notas de maçã madura dourada e pequenas flores de montanha.\nSabor : seco, fresco e frutado na boca suave frutado com final e aromático.\nSirva em : 6-8 ° C",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Memoro Bianco Paccini",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Villa Fabrizia Frascati",
         "descricao": "Aroma\n\nVinoso, intenso, afrutado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Settesoli Pinot Grigio",
         "descricao": "Cor amarelo pálido. Aromas com notas típicas de Pinot Grigio, pêra e frutas cítricas. Paladar com toques de baunilha, damasco e mel.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Vasto Rosé",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Vigneti Del Vulture Pipoli Rosato Basilicata",
         "descricao": "Vinho de cor rosa brilhante. Apresenta aromas de cerejas amargas e cerejas pretas. No paladar, é de estrutura média, com acabamento equilibrado e persistente",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Vasto Tinto Rosso",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Corvo",
         "descricao": "Ageing - At least 10 months in large fine oak barrels and then in glass-lined vats.\nMaturing - Two months in bottle at controlled temperature.\nTasting\nColour - lively ruby-red with garnet red highlights.\nAroma - intense, complex, fruity, with a scent of morello cherry, airy and pleasant.\nFlavour - dry, full, pleasantly winy, balanced, full-bodied and persistent.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Vasto Tinto Montepulciano d'Abruzzo",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Vasto Tinto Montepulciano d'Abruzzo",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Moi - Varvaglione - Primitivo Puglia",
         "descricao": "Elaborado pela variedade de uva Primitivo, este vinho apresenta uma coloração vermelho rubi com reflexos violáceos, aromas de cassis, frutas vermelhas e ameixa, além de um paladar equilibrado com taninos macios. Ideal para harmonizar com pratos típicos, massas e carnes, este vinho é uma excelente opção para quem deseja desfrutar de uma experiência sensorial única e marcante.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "RUFFINO CHIANTI",
         "descricao": "O Vinho Chianti Ruffino DOCG é uma boa escolha para quem aprecia grandes vinhos e não abre mão da qualidade de uma vinícola consagrada. Produzido em vinhas da Itália, um dos grandes países do vinho, possui uma cor vermelho rubi especial e uma composição aromática de frutas como ameixa e cereja, seguidas por toques florais e picantes e um típico paladar de corpo médio, fresco, com taninos delicados e finais de boca frutados.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Papale Primitivo di Manduria",
         "descricao": "Um vinho italiano de excelência produzido pela Varvaglione Vigne & Vini. Com aromas intensos de ameixa, amora, alcaçuz e cacau, este vinho apresenta um paladar frutado e persistente, tornando a experiência sensorial única e envolvente. Ideal para harmonizar com pratos típicos e carnes, este vinho é aveludado em boca, mostrando uma boa integração do carvalho com a fruta.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Coco Bambu Brunello di Montalcino",
         "descricao": "Mediterrâneo moderadamente quente, seco e ventilado, com longa estação de amadurecimento das uvas.\n\nCARACTERÍSTICAS ORGANOLÉPTICA",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Sassoalloro",
         "descricao": "Verdadeiro superstar toscano, o Sassoalloro é um grande sucesso, combinando intensidade, concentração e riqueza aromática com muita classe e um toque aristocrático.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "brunello di montalcino sangiovese",
         "descricao": "Aromas: Típico com notas de fruta madura Paladar: Elegante e harmonioso, com taninos médiosHarmonização: Carnes nobres de caça, carnes vermelhas grelhadas, massas com molhos vermelhos e queijos maduros",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Barolo Tradizione",
         "descricao": "A cor é vermelho granada com tons de rubi. O aroma é intenso e persistente, com aromas limpos de especiarias, canela, o absinto, tabaco e roseira. O sabor é completo e elegante e com taninos macios. O picante e a mistura Boise perfeitamente",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Itália",
         "prato": "Tignanello",
         "descricao": "2152 Possui aromas caracterizados por uma forte expressão varietal, com notas amplas de frutas vermelhas, framboesas e alcaçuz. Na boca o vinho é equilibrado, fino, com taninos levigados, boa acidez, sapidez e notas minerais que lhe conferem um final longo e persistente.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Reguengos DOC Alentejo",
         "descricao": "Apresenta de cor amarelo palha com aromas frutados. Em boca é seco, equilibrado e fresco.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Adega de Monção Branco",
         "descricao": "O Adega de Monção Branco é feito por duas uvas muito tradicionais na região dos Vinhos Verdes: Alvarinho e Trajadura. É um vinho leve, cítrico, frutado e com ótima acidez. É perfeito para um bate papo, aperitivos e frutos do mar. Experimente um autêntico Vinho Verde proveniente da sub-região de Monção e Melgaço – coração dos vinhos verdes!",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Ea Cartuxa Branco",
         "descricao": "Cartuxa EA Branco, tratam-se de vinhos do ano, com características selecionadas de vinhos jovens, fáceis de beber e de consumir imediatamente.\nO vinho branco é feito com as castas portuguesas Roupeiro, Antão Vaz e Arinto, todas provenientes de vinhedos da Fundação Eugénio de Almeida. A fermentação do vinho ocorre em tanques de aço inoxidável, a temperatura controlada de 16ºC. É engarrafado sem passagem por madeira.\nApresenta coloração amarela com reflexos esverdeados. Aromas frutados, com destaque para maçã-verde. Em boca, é um vinho bastante fresco, de corpo médio e final agradável.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Quinto Da Aveleda",
         "descricao": "O vinho branco Quinta da Aveleda é produzido pela Aveleda Vinhos. A vinícola é sediada na região conhecida como Aveleda, mas com vinhedos por diversas regiões de Portugal. Sua história remonta ao Século XIX, quando Manoel Pedro Guedes de Silva da Fonseca muda-se para a região e dá ínicio a produção e comércio de vinhos.\n\nO termo Vinho Verde é uma Denominação de Origem Controlada (DOC), a qual determina a região e processo produtivo dos vinhos assim chamados. A região demarcada para o cultivo das uvas da Denominação está localizada ao noroeste de Portugal, entre os rios Douro e Minho. O Vinho Verde é o segundo mais exportado de Portugal, atrás somente dos Vinhos do Porto.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Muralhas de Monção Branco",
         "descricao": "O nome deste vinho é proveniente das Muralhas que cercam a fronteira de Portugal com a Espanha e foram de extrema importância nas épocas das guerras medievais. O Muralhas de Monção é uma das marcas de vinho verde mais vendidas do mundo.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Cartuxa Branco",
         "descricao": "Este vinho associa a sua qualidade ao nome dos monges Cartuxos que, entre 1598 e 2019, levaram uma vida solitária de oração no Mosteiro de Santa Maria Scala Coeli. Tem por base as castas Antão Vaz, Roupeiro e Arinto, apresenta um aroma fino e um certo corpo, é persistente e harmonioso. Foi produzido pela primeira vez em 1986.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Esporão Reserva Branco",
         "descricao": "Vinho clássico obtido a partir de uvas da Herdade do Esporão que mostra a consistência e o caráter rico e típico dos melhores vinhos do Alentejo.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Pera Manca Branco",
         "descricao": "Denominado pelo produtor como um “vinho de exceção”, parte do Pêra Manca branco é fermentado em barricas francesas, passando depois por um período de 12 meses em contato com as borras e 6 meses em garrafa antes de ser comercializado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Jp Azeitão Rosé",
         "descricao": "De cor rosada pálida o JP Azeitão Rosé 2010 apresenta-se com aromas marcadamente florais, rosas e flores do campo, dando-lhe um perfil um pouco feminino; na boca esta primeira impressão floral é intensificada e completada com uma boa acidez e estrutura originando um vinho com um final fresco, mineral e cheio.\nHarmoniza com saladas e carne branca, ideal como aperitivo.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Vinho Coco Bambu Tinto 5L",
         "descricao": "Vinho português alentejano, elaborado pelo enólogo luís duarte, é um rubi intenso de médio corpo com notas de frutas maduras, na boca macio, equilibrado e ótima persistência, ideal para harmonizar com frutos do mar, carnes brancas e vermelhas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Coco Bambu Tinto Português  Alentejano",
         "descricao": "Elaborado com as uvas Aragonez, Trincadeira, Alicante Bouschet. De aspeto límpido e de cor rubi intensa. No aroma apresenta notas a frutos vermelhos. Com mais personalidade, este vinho é ideal para acompanhar carnes e massas. No rótulo podemos observar a assinatura do nosso fundador Afranio Barreira, bem como a foto do primeiro restaurante em 1989.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Jp Azeitão Tinto",
         "descricao": "De cor vermelha e brilhante, aroma frutado com dominância das “nuances” de frutos encarnados do bosque, de morangos e ginjas, apresenta-se na boca com sabores idênticos aos aromas, integrados numa estrutura tânica suave e fresca.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Coco Bambu Tinto Português  Alentejano",
         "descricao": "Elaborado com as uvas Aragonez, Trincadeira, Alicante Bouschet. De aspeto límpido e de cor rubi intensa. No aroma apresenta notas a frutos vermelhos. Com mais personalidade, este vinho é ideal para acompanhar carnes e massas. No rótulo podemos observar a assinatura do nosso fundador Afranio Barreira, bem como a foto do primeiro restaurante em 1989.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Reguengos Alentejo D.O.C",
         "descricao": "Visual: Rubi.\nAroma: Frutas vermelhas maduras (amoras e groselhas), baunilha e tostado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Coco Bambu Reserva Tinto",
         "descricao": "Vinho português alentejano, de aspeto límpido e cor granada viva com aroma muito austero e cheio de personalidade. Ideal para acompanhar carnes assadas ou grelhadas e queijos fortes.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Porca de Murça",
         "descricao": "Na prova, é complementado por uma maciez que no final revela vigor graças a sua acidez equilibrada.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Herdade Do Esporao Monte Velho",
         "descricao": "Produzido com uvas de toda a região com vinhedos de 18 anos em média, é o resultado de parcerias com mais de 15 anos com fornecedores das diferentes sub-regiões, que utilizam o mesmo sistema integrado de produção do Esporão. Estas práticas sustentáveis, que impossibilitam a utilização de pesticidas e herbicidas, são fundamentais para a qualidade e fertilidade do solo, proporcionando à vinha uma proteção natural que influencia a qualidade dos vinhos.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Quinta do Cachão",
         "descricao": "Vinho de cor rubi intensa com aroma frutado, onde se notam toques de frutas escuras maduras, chocolate e tostado. Na boca revela taninos bem maduros e macios, com final persistente.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Quinta Do Cachão",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Quinta Do Cachão",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Messias Dão Quinta Penedo",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Reguengos Reserva",
         "descricao": "Vinho rubi com aromas evoluídos que lembram especiarias, passas e baunilhas e taninos suaves.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Vinho Crasto Superior Tinto",
         "descricao": "Cereja, Especiarias, Frutas Silvestres, Amora, Framboesa, Morango",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Duas Quintas Douro",
         "descricao": "Apresenta uma cor rubi de média intensidade e um nariz agradavelmente preenchido por notas florais, frutos silvestres e delicadas sensações minerais, bem como algumas especiarias. Na boca é um vinho equilibrado, fresco, muito frutado e com taninos macios, revelando uma estrutura interessante e um final mediano, em termos de comprimento e persistência",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Esporão Esporão Reserva Tinto",
         "descricao": "Vermelho rubi intenso. Exibe notas de frutos silvestres e compotas de mirtilo, envoltos em café, pimenta do reino e um leve aroma torrado do barril. Na boca é intenso e denso, mas com taninos robustos, conferindo-lhe estrutura e complexidade e sugerindo bom potencial de envelhecimento em garrafa.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Esporão Esporão Reserva Tinto",
         "descricao": "Vermelho rubi intenso. Exibe notas de frutos silvestres e compotas de mirtilo, envoltos em café, pimenta do reino e um leve aroma torrado do barril. Na boca é intenso e denso, mas com taninos robustos, conferindo-lhe estrutura e complexidade e sugerindo bom potencial de envelhecimento em garrafa.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Cartuxa Colheita",
         "descricao": "Olfato\nAroma evoluído, notando-se a presença da casta Trincadeira, misturada com as notas quentes da planície alentejana",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Quinta da Bacalhôa Tinto",
         "descricao": "Aromas de frutos vermelhos combinados com \"nuances\" de madeira e especiarias.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Luis Duarte Vinho Coco Bambu Tinto",
         "descricao": "Vinho português alentejano, elaborado pelo enólogo luís duarte, é um rubi intenso de médio corpo com notas de frutas maduras, na boca macio, equilibrado e ótima persistência, ideal para harmonizar com frutos do mar, carnes brancas e vermelhas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Dom José Ruby",
         "descricao": "Vinho do Porto de qualidade superior, resultante de uma cuidada selecção de vinhos jovens e encorpados. Envelhecido durante 3 anos em cascos de madeira, o Porto Dom José tem uma cor Ruby e um aroma frutado, desenvolvendo no paladar um complexo sabor a frutos silvestres. De cor rubi e nuances violeta, rico em aromas de frutos silvestres é caracterizado pela sua suavidade e harmonia no paladar. Ideal para acompanhar frutos secos e como aperitivo.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Portugal",
         "prato": "Vinho do Porto",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "África do Sul",
         "prato": "Nederburg Foundation Sauvignon Blanc",
         "descricao": "Vinho de cor verde brilhante, com aroma de maracujá com notas florais e cítricas. No paladar é seco, frutado, com boa acidez e um retrogosto persistente.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Espanha",
         "prato": "Cava Don Román Brut",
         "descricao": "Elaborado pelo método tradicional. Apresenta cor amarela palha com leves reflexos dourados e perlage persistente. Aromas finos florais e notas de mel. É redondo, fresco e equilibrado, com boa persistência e acidez agradável.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Espanha",
         "prato": "Marques De Toledo Verdejo",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Espanha",
         "prato": "Los Llanos Pata Negra Verdejo",
         "descricao": "Visual: amarelo palha claro e brilhante. Olfativa: frutas cítricas (abacaxi) e notas de ervas frescas. Gustativa: seco, acidez fresca, corpo leve e final muito harmônico.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Espanha",
         "prato": "Los Llanos Pata Negra Verdejo",
         "descricao": "Visual: amarelo palha claro e brilhante. Olfativa: frutas cítricas (abacaxi) e notas de ervas frescas. Gustativa: seco, acidez fresca, corpo leve e final muito harmônico.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Espanha",
         "prato": "Pata Negra Gran Reserva",
         "descricao": "Aromas de frutas nagrs e baunilha, eqilibrado e macio",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Espanha",
         "prato": "Pesquera Crianza",
         "descricao": "Um dos grandes nomes do vinho espanhol, reverenciado por Robert Parker, Pesquera, de Alejandro Fernández, produz vinhos de exceção. Apresenta notas frutadas e de especiarias picantes, seguidas de baunilha. Seu paladar é limpo e sedoso. Os toques tostados são provenientes do tempo em que estagiou em carvalho francês e americano de diferentes níveis de tosta. Pronto para beber agora. No entanto, ainda pode evoluir na garrafa. Pode conter sedimentos, pois o vinho não é filtrado, com o objetivo de ser o mais natural possível.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Estados Unidos",
         "prato": "Robert Mondavi Woodbridge",
         "descricao": "6 Meses Em Contato Com As Borras (Sur–Lie) Em Barricas De Carvalho. Vinho Robert Mondavi Woodbridge Chardonnay é recomendado para quem gosta de um vinho com tradição e qualidade. Produzido na Califórnia, possui sabores marcantes de maçã verde e abacaxi, unidos a toques florais e baunilha, que proporcionam uma sensação fresca e macia ao paladar, conquistando apreciadores no mundo todo. Ideal para acompanhar com aperitivos, salmão grelhado, massas com molhos a base de creme de leite, risoto de camarão, paella e queijos leves.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Estados Unidos",
         "prato": "Woodbridge White Zinfandel",
         "descricao": "Woodbridge White Zinfandel é Versátil, refrescante e levemente adocicado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Estados Unidos",
         "prato": "Robert Mondavi Woodbridge Zinfandel",
         "descricao": "Vermelho rubi intenso com tons violáceos. Exuberante aroma de frutas como ameixa e amora, toques de chá, pimenta do reino e canela. Ao paladar, revela-se de corpo médio, macio e com final de boca bastante frutado e refrescante.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Estados Unidos",
         "prato": "ROBERT MONDAVI NAPA VALLEY",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Entradinhas",
@@ -1214,7 +1214,7 @@
     {
         "categoria": "Entradinhas",
         "prato": "Entradinha Espetinho de Camarão",
-        "descricao": "No description",
+        "descricao": "Sem descrição",
         "preco": "1148 - 135g de Camarão: R$ 59,00 - (1148)"
     },
     {
@@ -1227,31 +1227,31 @@
         "categoria": "Entradinhas",
         "prato": "Empada de Queijo do Reino",
         "descricao": "Empada de Queijo do Reino ( 1 unidade)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Entradinhas",
         "prato": "Empada de Camarão",
         "descricao": "Empada de Camarão ( 1 unidade)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Entradinhas",
         "prato": "Entradinha Caldinho de Camarão",
         "descricao": "Caldo com camarões, alho, cebola, coentro, pimentões, pimenta de cheiro mandioquinha eleite de coco.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Entradinhas",
         "prato": "Entradinha Caldinho de Peixe",
         "descricao": "Caldo à base de peixe, pimentões, pimenta de cheiro, cebola, alho, leite de coco e coentro.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
         "prato": "Couvert Especial",
         "descricao": "Camarões marinados, tomate seco com queijo minas frescal temperado, tomatesgrelhados com alho frito, caponata de berinjela e ceviche de salmão. Acompanha torradastemperadas e pães de queijo.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
@@ -1281,7 +1281,7 @@
         "categoria": "Petiscos e Entradas",
         "prato": "Camarão Jangadeiro",
         "descricao": "04 camarões empanados, recheados com queijo Catupiry®.Acompanha molho taíba (molho rosé especial da casa com especiarias).",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
@@ -1305,7 +1305,7 @@
         "categoria": "Petiscos e Entradas",
         "prato": "Dadinhos de Tapioca",
         "descricao": "Acompanha geléia de pimenta.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
@@ -1335,49 +1335,49 @@
         "categoria": "Petiscos e Entradas",
         "prato": "Pastel de Carne Moída com Azeitona",
         "descricao": "Massa fresca recheada com carne moída e azeitonas. (4 Unidades)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
         "prato": "Pastel de Carne de Sol",
         "descricao": "Massa fresca recheada com carne de sol, cebola roxa, coentro e queijo coalho. (4 Unidades)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
         "prato": "Pastel de Camarão",
         "descricao": "Massa fresca recheada com camarão, Catupiry® e salsinha. (4 Unidades)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
         "prato": "Pastel de Queijo",
         "descricao": "Massa fresca recheada com queijo coalho e muçarela. (4 Unidades)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
         "prato": "Pastel de Bacalhau",
         "descricao": "Massa fresca recheada com bacalhau desfiado, azeitonas pretas, mix de pimentões, cheiro-verde e cebola refogada. ( 4 Unidades)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
         "prato": "Escondidinho de Camarão",
         "descricao": "Camarões refogados com cebola, salsinha, nata e Catupiry®, coberto com purê demacaxeira e gratinado com queijo parmesão.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
         "prato": "Escondidinho de Carne de Sol",
         "descricao": "Carne de sol desfiada e refogada com cebola roxa, coentro e nata, coberto com purêde macaxeira e gratinado com queijo coalho.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
         "prato": "Entrada Carpaccio",
         "descricao": "Carpaccio de carne temperado com molho de alcaparras, mostarda, parmesão e rúcula. Servido com pão rústico.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
@@ -1389,7 +1389,7 @@
         "categoria": "Petiscos e Entradas",
         "prato": "Croquete de Bacalhau",
         "descricao": "4 Unidades Servido com molho tártaro.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
@@ -1407,19 +1407,19 @@
         "categoria": "Petiscos e Entradas",
         "prato": "Camarões ao Forno",
         "descricao": "10 camarões inteiros (com cabeça) levados ligeiramente ao forno regados comsuave molho provençal.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
         "prato": "Caldo de Camarão",
         "descricao": "Caldo com camarões, alho, cebola, coentro, pimentões, pimenta de cheiro mandioquinha eleite de coco.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
         "prato": "Caldo de Peixe",
         "descricao": "Caldo à base de peixe, pimentões, pimenta de cheiro, cebola, alho, leite de coco e coentro.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Petiscos e Entradas",
@@ -1533,7 +1533,7 @@
         "categoria": "Camarão Pra 2",
         "prato": "Camarão Siciliano",
         "descricao": "6 camarões recheados com queijo Catupiry® e empanados, servidos sobre risoto de limão siciliano, decorado com salsinha. Acompanha batata palha. (6 Unidades)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Camarão Pra 2",
@@ -1737,7 +1737,7 @@
         "categoria": "Tilápia",
         "prato": "Tilápia ao Molho de Camarão",
         "descricao": "Filé de peixe grelhado e coberto com molho de camarão, com tomate, pimentões, cheiro verde e leite de coco. Acompanha arroz branco.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Moqueca e Peixada",
@@ -1965,7 +1965,7 @@
         "categoria": "Saladas",
         "prato": "Salada Light",
         "descricao": "Folhas verdes, tomate cereja, cenoura, palmito e molho de iogurte. Servida na casquinha de pizza.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Saladas",
@@ -1977,13 +1977,13 @@
         "categoria": "Saladas",
         "prato": "Salada Sertão",
         "descricao": "Alface americana, queijo coalho grelhado, tomate, azeitona verde, palmito, pimentão cebola e molho vinagrete especial. Servida na casquinha de pizza.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Saladas",
         "prato": "Salada de Carpaccio",
         "descricao": "Mix de folhas verdes sobre carpaccio de carne temperado com molho de alcaparras, mostarda e parmesão. Servida na casquinha de pizza.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Saladas",
@@ -2001,1266 +2001,1266 @@
         "categoria": "Saladas",
         "prato": "Salada Caprese Coco Bambu",
         "descricao": "Alface americana, rúcula, muçarela de búfala, tomate, manjericão, azeitonas pretas, tapenade de azeitonas pretas. Servida na casquinha de pizza.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Saladas",
         "prato": "Salada Juliana",
         "descricao": "Alface americana, cenoura, palmito, tomate cereja, queijo parmesão, molho de mostarda com mel e batata palha.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Pratos Inclusivos",
         "prato": "Lasanha de Berinjela",
         "descricao": "Berinjelas empanadas envolvidas em molho de tomate fresco. Finalizadas ao fornocom queijos muçarela e parmesão.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Pratos Inclusivos",
         "prato": "Espaguete com Vegetais",
         "descricao": "Delicioso espaguete italiano com brócolis, tomate cereja e caponata de berinjela salteados no azeite, alho, cebola e pimenta do reino.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Pratos Inclusivos",
         "prato": "Risoto de Palmito",
         "descricao": "Risoto vegano de palmito com pimenta do reino, azeitonas pretas fatiadas e pimenta biquinho. Decorado com amêndoas laminadas e salsinha.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Gelatos Coco Bambu",
         "prato": "Gelato De Creme",
         "descricao": "Delicioso e cremoso Gelato Italiano de Creme com crocante de castanha. Acompanha calda de chocolate. Fabricação própria Coco Bambu.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Gelatos Coco Bambu",
         "prato": "Gelato de Brigadeiro",
         "descricao": "Delicioso e cremoso Gelato Italiano de Brigadeiro. Acompanha calda de chocolate. Fabricação própria Coco Bambu.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Gelatos Coco Bambu",
         "prato": "Gelato De Cookies And Cream",
         "descricao": "Delicioso e cremoso Gelato Italiano de Cookies and Cream. Acompanha calda de chocolate. Fabricação própria Coco Bambu.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Gelatos Coco Bambu",
         "prato": "Gelato De Doce De Leite",
         "descricao": "Delicioso e cremoso Gelato italiano de Doce de Leite. Acompanha doce de leite Argentino. Fabricação própria Coco Bambu.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Gelatos Coco Bambu",
         "prato": "Gelato de queijo com Goiabada",
         "descricao": "Delicioso e cremoso gelato italiano de queijo com calda de goiabada.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Gelatos Coco Bambu",
         "prato": "Gelato De Pistache",
         "descricao": "Delicioso e cremoso Gelato Italiano de Pistache com raspas de pistache. Fabricação própria Coco Bambu.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Gelatos Coco Bambu",
         "prato": "Mix de Gelato 4 Sabores",
         "descricao": "Mix de quatro sabores de gelato artesanal servido em uma tábua personalizada. Sabores disponíveis: Queijo com goiabada, Cookies and cream, doce de leite, creme e brigadeiro.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Gelatos Coco Bambu",
         "prato": "Mix de Gelato com  Pistache 4 Sabores",
         "descricao": "Mix de quatro sabores de gelato artesanal servido em uma tábua personalizada. Sabores disponíveis: Queijo com goiabada, Cookies and cream, doce de leite, creme e brigadeiro e Pistache",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Tortas Inteiras",
         "prato": "Torta Pavê Trufada",
         "descricao": "Torta Pavê Trufada",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Tortas Inteiras",
         "prato": "O Melhor Pudim Do Mundo",
         "descricao": "Fla caseiro com ameixas pretas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Tortas Inteiras",
         "prato": "Pudim Inteiro Grande",
         "descricao": "O Melhor Pudim Do Mundo",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Tortas Inteiras",
         "prato": "Torta De Limão",
         "descricao": "Torta de Limão",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Tortas Inteiras",
         "prato": "Torta De Banana Cremosa",
         "descricao": "Torta de Banana Cremosa",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Tortas Inteiras",
         "prato": "Cocada Ao Forno",
         "descricao": "Coco fresco desfiado assado e leite condensado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Pequena Torta De Banana Cremosa",
         "descricao": "Fatia de torta cremosa recheada e coberta com tirinhas de banana caramelizada. Servida quente com sorvete de creme salpicado com canela em pó.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Pequena Torta De Limão",
         "descricao": "Fatia de torta de creme de limão e leite condensado sobre massa de biscoito. Acompanha calda de chocolate.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Pequena Torta Pavê De Chocolate Trufada",
         "descricao": "Fatia de torta com deliciosas camadas de pão de ló de chocolate trufado e creme de chocolate. Coberta com trufa cremosa e bolinhas de chocolate crocante.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Blondie de Pistache Individual",
         "descricao": "Classica receita de brownie com chocolate branco e pistache. Acompanha sorvete de pistache.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Cocada Ao Forno Com Sorvete (1 Bola)",
         "descricao": "Elaborada com coco ralado fresco e leite condensado. Dourada ao forno, servida quentecom uma bola de sorvete de creme.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Cocada Ao Forno",
         "descricao": "Elaborada com coco ralado fresco e leite condensado. Dourada ao forno e servida quente.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Pudim De Leite ‘‘O Melhor Do Mundo’’",
         "descricao": "Com doce caseiro de ameixas pretas em calda.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Brigadeiro De Colher",
         "descricao": "Delicioso e cremoso brigadeiro servido na taça. Coberto com bolinhas crocantes.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Petit Gateau De Chocolate",
         "descricao": "Bolinho quente de chocolate. Acompanha sorvete de creme.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Petit Gateau De Doce De Leite",
         "descricao": "Bolinho quente de doce de leite. Acompanha sorvete de creme.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Churros Com Doce De Leite Argentino",
         "descricao": "Com Doce de Leite Argentino e Raspas de Limão Siciliano.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Mousse De Chocolate",
         "descricao": "Legítima receita italiana.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Cocada Mole com Gelato de Coco",
         "descricao": "Deliciosa cocada coberta com Gelato de coco e coco ralado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Abacaxi",
         "descricao": "Rodela de abacaxi servida com raspas de gelo e limão.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Frappuccino Com Borda De Nutella",
         "descricao": "(200ml)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sobremesas",
         "prato": "Brownie de Chocolate",
         "descricao": "Bolo de chocolate americano com nozes. Coberto com calda de chocolate quentee sorvete de creme.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Camarão Coco Bambu (1 pessoas)",
         "descricao": "Camarões recheados com catupiry e empanados. Servidos sobre cremoso arroz com camarões, ervilhas e presunto, envolvido com molho branco. Gratinado com queijos muçarela e parmesão. Acompanha batata palha.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Camarão Grelhado (1 pessoas)",
         "descricao": "Camarões grelhados, salpicados com alho frito e salsinha no azeite de oliva. Acompanha arroz com brócolis e legumes salteados na manteiga de ervas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Camarão Internacional (1 Pessoas)",
         "descricao": "(Consultar o período da promoção) Camarões servidos sobre cremoso arroz com ervilhas e presunto, envolvido com molho branco. Gratinado com queijos muçarela e parmesão. Acompanha batata palha.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Camarão Mucuripe (1 pessoas)",
         "descricao": "(Consultar o período da promoção) Camarões com espaguete italiano coberto com delicioso molho de tomate fresco acrescido de tomate seco, nata, azeitona preta e rúcula.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Camarão no Risoto (1 pessoa)",
         "descricao": "Acompanhado de Risoto de Limão Siciliano, Palmito Grelhado, Batata Cozida, Tomate Cereja e Brócolis.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Carne de Sol Aruba (1 Pessoa)",
         "descricao": "(Consultar o período da promoção) Acompanhada de Baião de Dois, Bacon, Cebola Roxa, Queijo Coalho, Pimenta Biquinho, Abóbora e Nata Fresca.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Carne de Sol do Sertão (1 Pessoa)",
         "descricao": "(Consultar o período da promoção) Arroz de leite com queijo coalho, coberto com carne de sol desfiada e refogada namanteiga da terra com cebola roxa, nata e coentro. Gratinada com queijo coalho.Acompanha macaxeira frita.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Filé à Parmegiana (1 Pessoa)",
         "descricao": "(Consultar o período da promoção) Filé mignon à milanesa envoltos em molho caseiro de tomate fresco e gratinado com queijos muçarela e parmesão. Servido com espaguete no próprio molho ou com arroz branco e batatas fritas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Picadinho de Filé Coco Bambu (1 Pessoa)",
         "descricao": "(Consultar o período da promoção) Filé mignon picado, refogado com cebola e alho, flambado e acrescido de vinho tinto e molhoroti especial da casa. Coberto com ovos pochê. Acompanha farofa de banana e arroz branco.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Frango Crispy (1 Pessoa)",
         "descricao": "(Consultar o período da promoção) Acompanhado de Arroz Branco, Feijão Carioca, Batata Chips e Vinagrete.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Tilápia à Meunière (1 Pessoa)",
         "descricao": "Filet de tilápia grelhado com molho meunière, alcaparras, champignon e ervilhas. Acompanha arroz com brócolis e legumes.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Tilápia Maracujá (1 Pessoa)",
         "descricao": "Filé de Tilápia ao forno com Molho de Maracujá acompanhado de Purê de Abóbora, Arroz ao Leite de Coco, Batata Cozida, Tomate Cereja e Brócolis.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Carne de Sol Alfredo (1 Pessoa)",
         "descricao": "Carne de Sol desfiada grelhada sobre fettuccine com molho alfredo e bacon.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Camarão Alfredo (1 Pessoa)",
         "descricao": "Camarão grelhado sobre fettuccine com molho alfredo e bacon",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Almoço Executivo - 2ª a 6ª",
         "prato": "Chicken Alfredo (1 Pessoa)",
         "descricao": "Filé de peito de frango grelhado sobre fettuccine com molho alfredo e Bacon.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sanduiches",
         "prato": "Cheeseburger",
         "descricao": "Cheeseburguer - Pão Brioche, blend de hamburguer de 160G, queijo tipo cheddar e o nosso molho da casa.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Feijoada",
         "prato": "Feijoada Completa",
         "descricao": "Feijoada Completa servida com arroz branco, farofa, vinagrete, torresmo e laranjas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Pratos Exclusivos",
         "prato": "Peixe Pizzaiolo (2 pessoas)",
         "descricao": "Cubos de peixe empanado na farinha Panko, envolvido com espaguete ao molho de tomate.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Pratos Exclusivos",
         "prato": "Peixe Pizzaiolo ( 4 pessoas)",
         "descricao": "Cubos de peixe empanado na farinha Panko,envolvido com espaguete ao molho de tomate.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Abacaxi",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Abacaxi c/ Hortelã",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Acerola",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Cajá",
         "descricao": "**Fruta da Estação**",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Caju",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Cupuaçu",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Frutas Vermelhas",
         "descricao": "Morango, Cereja e Blueberry - P/ acrescentar: Laranja +R$ 2, Leite +R$ 2 ou Leite condensado +R$ 6.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Goiaba",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Graviola",
         "descricao": "**Fruta da Estação**",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Laranja",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Limonada Suíça",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Manga",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Maracujá",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Morango",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Tangerina",
         "descricao": "**Fruta da Estação**",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Tomate",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Sucos",
         "prato": "Suco de Uva Integral Casa Madeira",
         "descricao": "O suco de Uva Casa Madeira integral é originário do Vale dos Vinhedos. Com coloração púrpura, aroma intenso e marcante de frutas, demonstra a perfeita maturação da uva. Sua textura é densa e concentrada. Não possui adição de açúcares, água ou conservantes.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Água de Coco",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Água Minalba Premium",
         "descricao": "A melhor escolha para acompanhar momentos especiais.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Água Mineral Indaiá",
         "descricao": "A água pode ser consumida com uma variedade de alimentos e é importante para manter o corpo hidratado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Água Tônica",
         "descricao": "Elaborada a partir de água gaseificada e extrato vegetal de quinino. O quinino é extraído da casca de uma planta denominada chichona ou quina, conhecida por suas qualidades medicinais, como auxiliar no processo digestivo. Com sabor natural e leve, a Tônica Antarctica é líder absoluta em seu segmento.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Café Nespresso Descafeinado",
         "descricao": "O Decaffeinato é um blend de cafés descafeinados de Arábicas da América do Sul com um toque de Robusta. Esses cafés descafeinados passam por um processo de torra curto, mas intenso, que desenvolve as notas de torrado e reforça o caráter encorpado deste Nespresso descafeinado. As notas sutis de cacau e cereais torrados surpreenderão você com a riqueza da intensidade aromática. Os cafés Arábica e Robusta são cuidadosamente descafeinados para preservar sua complexidade aromática.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Café Nespresso Leggero",
         "descricao": "Leggero é um blend suave e refrescante de cafés sul-americanos. Arábicas levemente torrads do Brasil e da Colômbia e um Robusta conferem-lhe um corpo leve e aveludado, notas de cereais torrados e cacau com aquele toque de acidez e amargor. Receitas com leite revelam uma doçura de caramelo maltado no Leggero, mas os aromas complexos deste café Espresso ainda brilham.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Café Nespresso Ristretto",
         "descricao": "O Ristretto é simplesmente um clássico. Um blend de cafés das Américas Central e do Sul — alguns cultivados em altitude e lavados e outros naturalmente processados (não lavados), mas ainda assim, todos Arábicas. A torra escura e intensa e a moagem fina desenvolvem o corpo denso e o icônico crema de café espesso desses cafés da América Latina. O Ristretto é um blend de cafés Arábica encorpado e com um caráter de torrado intenso. Mas, em meio a essa intensidade, você degustará as notas de cacau intensas e as notas de madeira sutis que permanecem por um longo tempo nesta cápsula Nespresso.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Cappuccino",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Coca-Cola",
         "descricao": "A Coca-Cola Original é o refrigerante mais tradicional e consumido no mundo. Possui sabor inconfundível e único. É feito a partir de água gaseificada, açúcar, extrato de noz de cola e cafeína. É perfeita para compartilhar os melhores momentos da vida e com sua embalagem econômica ficou ainda mais fácil.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Guaraná Antarctica",
         "descricao": "Em 1921, nasceu, no Brasil, o Guaraná Antarctica. Produzido com uma frutinha amazonense de sabor agradável, é um refrigerante natural, leve e original, que conquistou o mercado exterior, particularmente Japão, onde lidera um ranking de dez diferentes marcas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Soda Antarctica",
         "descricao": "Muito apreciado por sua refrescância, Soda Limonada Antarctica é um refrigerante leve e natural de sabor limão. É produzido a partir de uma fórmula exclusiva, composta basicamente de água gaseificada e sucos de frutos naturais.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Red Bull",
         "descricao": "Criada na Áustria, a partir de uma combinação exclusiva de ingredientes. Red Bull aumenta a perfomance, a concentração, melhorando o estado de bem-estar, além de estimular o metabolismo.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "H2OH!",
         "descricao": "Bebida levemente gaseificada, com zero de açúcar, fonte de vitaminas B e suco natural de limão.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Schweppes Citrus",
         "descricao": "Schweppes é uma linha premium de bebidas, desenvolvida na Inglaterra em 1783 por Jacob Schweppe, um cientista amador que descobriu um método de produzir água carbonatada em escala comercial. Sua primeira fábrica teve lugar em Londres em 1792, produzindo a Schweppes Soda. Elaborado com água gaseificada, açúcar, suco de maçã, grapfruit e laranja, aroma natural e corante artificial tartrazina. Contém caloria, carboidrato e sódio.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Pink Lemonade",
         "descricao": "Copo de 410ml",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Soda Italiana",
         "descricao": "Sabores: Abacaxi, morango, maçã verde, tangerina, limão siciliano.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Sukita Uva",
         "descricao": "Sukita Uva (Lata)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Sukita Laranja",
         "descricao": "Sukita Laranja (Lata)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Bebidas",
         "prato": "Água Naturagua",
         "descricao": "A água pode ser consumida com uma variedade de alimentos e é importante para manter o corpo hidratado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Cerveja Michelob Ultra",
         "descricao": "Uma cerveja premium tipo American Light Lager, produzida pela Ambev, focada em um estilo de vida saudável e equilibrado. Com apenas 79-85 calorias e cerca de 2,4g de carboidratos por porção (330ml/350ml), é uma opção leve, refrescante, com baixo teor de amargor (3 IBU) e graduação alcoólica de 3,5% a 4,2%.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Corona Cero",
         "descricao": "A Corona Cero é a versão sem álcool da Corona, uma American Lager leve e refrescante, com sabor de malte e lúpulo, sendo a primeira cerveja sem álcool do mundo com adição de Vitamina D, ideal para harmonizar com pratos leves e para quem busca prazer sem restrições, com apenas 48 calorias e ritual do limão",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Stella Artois Pure Gold",
         "descricao": "Stella Artois Sem Glúten Long Neck 330 ml",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Budweiser",
         "descricao": "A cerveja Budweiser é uma American Larger que possui sabor leve, cor clara e aroma discreto. As lascas de Beechwood, madeira especial utilizada no processo de fermentação e maturação da Budweiser, conferem um sabor equilibrado, marcante no início e suave no final.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Antarctica Original",
         "descricao": "Mais que uma simples cerveja, é uma verdadeira preciosidade engarrafada. Reconhecida por preservar sua essência, tradição e qualidade, a marca Original, criada em 1931, é considerada um clássico entre os apreciadores da bebida. Cerveja do tipo Pilsen, tem sabor suave, com leve amargor e aroma de lúpulo. A alta carbonatação garante a refrescância, fazendo desta uma das cervejas favoritas dos brasileiros.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Spaten 600",
         "descricao": "Munich Helles puro malte. Teor alcoólico 5,2%",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Stella Artois",
         "descricao": "A receita de Stella Artois foi criada, originalmente, como um presente de Natal para os habitantes da pequena cidade de Leuven, na Bélgica. Cristalina, recebeu o nome de Stella, estrela em Latim. Sua receita única produz uma cerveja com aromas suaves e notas maltadas. A experiência e a tradição cervejeira de mais de 600 anos resultam em uma lager muito bem equilibradas. Uma cerveja de sabor intenso e com final suave. Stella Artois foi criada para ser saboreada.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Chopp Brahma",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Chopp Stella",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Corona",
         "descricao": "De baixa graduação alcoólica, com sabor leve e refrescante, a Corona é uma Premium American Lager perfeita para se tomar na praia com os amigos. Ah, uma fatia de limão reforça a acidez e o toque cítrico da Corona!Teor alcoólico - 4,6%330 ml",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Stella Artois",
         "descricao": "Stella Artois Long Neck 275 ml",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Cerveja e Chopp",
         "prato": "Budweiser 600ml",
         "descricao": "A cerveja Budweiser é uma American Larger que possui sabor leve, cor clara e aroma discreto. As lascas de Beechwood, madeira especial utilizada no processo de fermentação e maturação da Budweiser, conferem um sabor equilibrado, marcante no início e suave no final. Mesma receita americana desde 1876.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Acerola Martini",
         "descricao": "Vodka, suco de acerola, licor, sumo de maracujá, limão siciliano, laranja caramelizada e seca.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Alexander",
         "descricao": "Licor de Cacau, Domecq Oro, creme de leite e canela.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Aperol Mule",
         "descricao": "Vodka importado, Aperol, limão siciliano e gengibre",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Aperol Spritz",
         "descricao": "Espumante, Aperol, soda limonada e laranja.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Apple Gin Sem Álcool",
         "descricao": "Água tônica, e Xarope Monin de Maçã Verde.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Apple Martini",
         "descricao": "Vodka, maça verde, xarope de maçã verde e toque de limão.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Bellini",
         "descricao": "Espumante e purê de pêssego.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Bloody Mary",
         "descricao": "Suco de tomate, vodka, molho de pimenta, suco de limão, sal e molho inglês.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Blue Martini",
         "descricao": "Vodka, limão e Curaçao Blue.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Boulevardier",
         "descricao": "Preparado com Whisky Bourbon, Vermouth Italiano e Campari.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Carajillo",
         "descricao": "Licor 43 e Café Nespresso Ristretto.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Clericot (Taça)",
         "descricao": "Vinho Branco, licor de laranja, conhaque, soda e mix de frutas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Clericot (Jarra)",
         "descricao": "Vinho Branco, licor de laranja, conhaque, soda e mix de frutas (Jarra)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Coquetel de Frutas Sem Álcool",
         "descricao": "Coquetel de Frutas sem Álcool.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Cosmopolitan Coco Bambu",
         "descricao": "Vodka, licor de laranja, suco de Cranberry e toque de limão.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Cozumel",
         "descricao": "Chopp, gelo, suco de limão e borda de sal.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Dry Martini",
         "descricao": "Martini, gin e azeitona verde.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Espresso Martini",
         "descricao": "Café expresso, frangélico e Vodka.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Fitzgerald",
         "descricao": "Gin Tanqueray, suco de limão siciliano, syrup, angostura bitters",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "French Martini",
         "descricao": "Suco de Abacaxi, licor e Vodka.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Gin Blush",
         "descricao": "Gin, água tônica e suco de cranberry.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Gin Caju",
         "descricao": "Gin, sumo de caju natural, rodela de caju e água tônica.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Gin Citrus",
         "descricao": "Gin Tanqueray e Schweppes Citrus.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Gin Frutas Vermelhas Sem Álcool",
         "descricao": "Água tônica, infusão de chá de frutas vermelhas e morango.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Gin Mule",
         "descricao": "Gin Tanqueray, Água tônica e espuma de gengibre.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Gin Sevilla & Tônica",
         "descricao": "Gin Tanqueray sevilla, água tônica e tangerina.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Gin Siciliano",
         "descricao": "Gin Tanqueray, Limoncello e Raspas de Limão.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Gin Tanqueray Triplo T",
         "descricao": "Gin Tanqueray, água tônica, tangerina e mel.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Gin Tônica",
         "descricao": "Gin. água tônica, limão siciliano e alecrim.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Gìn Tônica de Frutas Vermelhas",
         "descricao": "Gin, água tônica, infusão de chá de frutas vermelhas e morango.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Gin Tônica Sem Álcool",
         "descricao": "Água tônica, limão siciliano e alecrim.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Kir Royal",
         "descricao": "Espumante, licor de cassis e cereja.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Lichia Martini",
         "descricao": "Vodka, água de coco, purr de lichia, limão siciliano e lichia.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Limoncello Spritz",
         "descricao": "Limoncello, espumante, água com gás e limão siciliano",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Love Martini",
         "descricao": "Gin Tanqueray, Aperol, Limão siciliano, syrup de morango.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Manhattan",
         "descricao": "Jack Daniel's, vermute rosso e angostura. Decorado com cereja.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Margarita",
         "descricao": "Tequila, licor de laranja e suco de limão.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Mojito",
         "descricao": "Rum, soda, limão e hortelã.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Moscow Mule",
         "descricao": "Vodka, suco de limão, gengibre e espuma de gengibre.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Negroni",
         "descricao": "Gin, Campari e vermute rosso. Decorado com casca de laranja.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Old Fashioned",
         "descricao": "Preparado com Whisky Bourbon e açúcar",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Passion Martini",
         "descricao": "Absolut Citron",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Piña Colada",
         "descricao": "Suco de abacaxi, leite de coco, rum, creme de leite e leite condensado.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Sangria (Jarra)",
         "descricao": "Vinho tinto, licor curaçau fino, soda, suco de laranja, mix de frutas e gelo",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Sex on the Beach",
         "descricao": "Vodka, licor de Pêssego, suco de laranja e xarope de frutas vermelhas.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Blue Mojito",
         "descricao": "Uma releitura vibrante do clássico cubano. A combinação refrescante de Bacardi, hortelã fresca e limão ganha um toque exótico e uma cor eletrizante com o Curaçau Blue. Finalizado com soda para um brilho extra.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Coquetéis",
         "prato": "Blue Mojito",
         "descricao": "Uma releitura vibrante do clássico cubano. A combinação refrescante de Bacardi, hortelã fresca e limão ganha um toque exótico e uma cor eletrizante com o Curaçau Blue. Finalizado com soda para um brilho extra.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "Axé",
         "descricao": "Maracujá, pimenta dedo de moça e vodka Absolut.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "Bossa Nova",
         "descricao": "Morango, tomate cereja e vodka Absolut Vanilla.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "Caip Cajá",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "Caipi Frutas Vermelhas",
         "descricao": "Caipirinha de Frutas Vermelhas (Morango, Blueberry e Framboesa).",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiAbacaxi",
         "descricao": "Caipirinha de Abacaxi.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiBanana",
         "descricao": "Caipirinha de Banana.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiCaju",
         "descricao": "Caipirinha de Caju.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiCoco",
         "descricao": "Caipirinha de Coco.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiCoco Frozen",
         "descricao": "Caipirinha de Coco Frozen.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiKiwi",
         "descricao": "Caipirinha de Kiwi.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiLichia",
         "descricao": "Caipirinha de Lichia.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiLima da Pérsia",
         "descricao": "Caipirinha de Lima da Pérsia.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiLimão",
         "descricao": "Caipirinha de Limão.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiMaçã Verde",
         "descricao": "Caipirinha de Maçã Verde.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiManga",
         "descricao": "Caipirinha de Manga.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiMaracujá",
         "descricao": "Caipirinha de Maracujá.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiMorango",
         "descricao": "Caipirinha de Morango.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "CaipiSake Nacional",
         "descricao": "Caipirinha de Sake Nacional.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "Ópera",
         "descricao": "Kiwi, uva verde sem caroço, maçã verde, hortelã e vodka Absolut Vanilla.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "Sertanejo",
         "descricao": "Limão siciliano, lima da pérsia, rapadura e vodka Absolut.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Caipis",
         "prato": "Siciliana",
         "descricao": "Morango, limão siciliano e vodka Absolut.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Campari (Dose)",
         "descricao": "Dose Aperitivo Campari",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Conhaque Domecq Oro - Brasil (Dose)",
         "descricao": "Dose Digestivo Conhaque Domecq Oro - Brasil",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Gin Tanqueray (Dose)",
         "descricao": "Dose Gin Tanqueray",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Vodka Smirnoff",
         "descricao": "Dose Vodka Smirnoff",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Licor 43 - Ervas - Espanha (Dose)",
         "descricao": "Dose Digestivo Licor 43 - Ervas - Espanha",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Licor Amarula - Creme (Dose - 65ml)",
         "descricao": "Dose Digestivo Licor Amarula - Creme",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Licor Baileys - Malte e Creme - Irlanda (Dose)",
         "descricao": "Dose Digestivo Licor Baileys - Malte e Creme - Irlanda",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Licor Coco Bambu",
         "descricao": "Fusão de sabores tropicais, a bebida é uma deliciosa combinação de vodka e coco, apresentando um equilíbrio fino de coco fresco, notas suaves de baunilha e um toque especial de doçura. Um acompanhamento perfeito para sobremesas, para ser degustado como um licor, para se tomar como um drink com gelo e também uma excelente opção de presente/souvenir.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Licor Coco Bambu (Dose)",
         "descricao": "Fusão de sabores tropicais, a bebida é uma deliciosa combinação de vodka e coco, apresentando um equilíbrio fino de coco fresco, notas suaves de baunilha e um toque especial de doçura. Um acompanhamento perfeito para sobremesas, para ser degustado como um licor, para se tomar como um drink com gelo e também uma excelente opção de presente/souvenir.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Licor Coco Bambu (Dose) + Expresso",
         "descricao": "Fusão de sabores tropicais, a bebida é uma deliciosa combinação de vodka e coco, apresentando um equilíbrio fino de coco fresco, notas suaves de baunilha e um toque especial de doçura. Um acompanhamento perfeito para sobremesas, para ser degustado como um licor, para se tomar como um drink com gelo e também uma excelente opção de presente/souvenir.",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Licor Cointreau - Laranja - Francês",
         "descricao": "Dose Digestivo Licor Cointreau - Laranja - Francês",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Licor Drambuie - Whisky - Escócia",
         "descricao": "Licor Drambuie - Whisky - Escócia",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Licor Frangelico - Avelã - Itália",
         "descricao": "Dose Digestivo Licor Frangelico - Avelã - Itália",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Licor Limoncello",
         "descricao": "Licor Limoncello",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Tequila Ouro ou Prata",
         "descricao": "Dose Tequila Jose Cuervo Ouro ou Prata",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Rum Bacardi",
         "descricao": "Dose Rum Bacardi",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Licor Peachtree - Pêssego - Holanda",
         "descricao": "Dose Digestivo Licor Peachtree - Pêssego - Holanda",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Vodka Ciroc",
         "descricao": "Dose Vodka Ciroc",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Absolut - (Garrafa)",
         "descricao": "Absolut",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Belvedere",
         "descricao": "Belvedere - Garrafa",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Ciroc",
         "descricao": "Ciroc - Garrafa",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Grey Goose",
         "descricao": "Grey Goose - Garrafa",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Ketel One",
         "descricao": "Ketel One - Garrafa",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Destilados & Digestivos",
         "prato": "Gin Tanqueray (Garrafa)",
         "descricao": "Gin Tanqueray",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Red Label - 8 anos (Dose)",
         "descricao": "Dose Whisky Premium Red Label - 8 anos",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Black Label - 12 anos (Dose)",
         "descricao": "Dose Whisky Premium Black Label - 12 anos",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Gold Label - 18 anos (Dose)",
         "descricao": "Dose Whisky Premium Gold Label - 18 anos",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Blue Label (Dose)",
         "descricao": "Dose Whisky Super Premium Blue Label",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Chivas Regal - 12 anos (Dose)",
         "descricao": "Dose Whisky Premium Chivas Regal - 12 anos",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Grand Old Par - 12 anos (Dose)",
         "descricao": "Dose Whisky Premium Grand Old Par - 12 anos",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Jack Daniel's - 12 anos (Dose)",
         "descricao": "Dose Whisky Premium Jack Daniel's - 12 anos",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Black & White - 8 anos (Dose)",
         "descricao": "Dose Whisky Black & White - 8 anos",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Grand Old Parr - 12 anos (Garrafa)",
         "descricao": "Whisky Premium Grand Old Parr- 12 anos",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Bulleit Bourbon",
         "descricao": "Dose",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Ballant 8 - (Garrafa)",
         "descricao": "Ballant 8 - Garrafa",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Ballant 12 - (Garrafa)",
         "descricao": "Ballant 12 - Garrafa",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Uísque",
         "prato": "Logan (Garrafa)",
         "descricao": "Logan - (Garrafa)",
-        "preco": "Consult"
+        "preco": "Consultar"
     },
     {
         "categoria": "Cachaça",
         "prato": "Cachaça Coco Bambu (Dose)",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Cachaça",
         "prato": "Cachaça Coco Bambu (Garrafa)",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Cachaça",
         "prato": "Cachaça Ypióca 160 Anos (Dose)",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     },
     {
         "categoria": "Cachaça",
         "prato": "Cachaça Ypióca 150 Anos (Dose)",
-        "descricao": "No description",
-        "preco": "Consult"
+        "descricao": "Sem descrição",
+        "preco": "Consultar"
     }
 ]

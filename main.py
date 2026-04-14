@@ -14,10 +14,7 @@ def main():
     base_path = os.path.dirname(os.path.abspath(__file__))
     input_files = [
         os.path.join(base_path, "json_graphs/bambu.json"),
-        os.path.join(base_path, "json_graphs/cameroon/main_course.json"),
-        os.path.join(base_path, "json_graphs/cameroon/drinks.json"),
-        os.path.join(base_path, "json_graphs/cameroon/dissert.json"),
-        os.path.join(base_path, "json_graphs/cameroon/childrens.json"),
+        os.path.join(base_path, "json_graphs/cameroon.json"),
     ]
 
     graph = build_graph(input_files)
