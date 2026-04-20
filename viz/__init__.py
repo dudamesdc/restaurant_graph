@@ -6,10 +6,13 @@ from .analysis import (
     render_random_comparison,
     render_shared_ingredients_network,
 )
+from .dashboard import DashboardAssets, render_dashboard
 from .interactive import render_interactive
 from .static import render_static
 
 __all__ = [
+    "DashboardAssets",
+    "render_dashboard",
     "render_degree_distribution",
     "render_ingredient_comparison",
     "render_interactive",
