@@ -12,7 +12,7 @@ def main():
     base_path = os.path.dirname(os.path.abspath(__file__))
     input_files = [
         os.path.join(base_path, "json_graphs/bambu.json"),
-        os.path.join(base_path, "json_graphs/cameroon.json"),
+        os.path.join(base_path, "json_graphs/camaroes.json"),
     ]
 
     graph = build_graph(input_files)

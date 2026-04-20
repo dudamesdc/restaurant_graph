@@ -3,9 +3,8 @@ from bs4 import BeautifulSoup
 
 
 ARQUIVO_BAMBU = "data/bambu.txt"
-ARQUIVO_CAMAROES = "data/camaroon.txt"
 SAIDA_BAMBU = "json_graphs/bambu.json"
-SAIDA_CAMAROES = "json_graphs/cameroon.json"
+SAIDA_CAMAROES = "json_graphs/camaroes.json"
 
 
 def extrair_bambu():

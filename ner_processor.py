@@ -179,7 +179,7 @@ def build_graph(data_files):
 
         if "bambu" in file_path.lower():
             restaurant_name = "Bambu"
-        elif "cameroon" in file_path.lower() or "camaroes" in file_path.lower():
+        elif "camaroes" in file_path.lower():
             restaurant_name = "Camarões"
         else:
             restaurant_name = "Desconhecido"
