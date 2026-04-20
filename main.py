@@ -11,6 +11,7 @@ from viz import (
     render_degree_distribution,
     render_ingredient_comparison,
     render_interactive,
+    render_random_comparison,
     render_shared_ingredients_network,
     render_static,
 )
@@ -31,6 +32,7 @@ METRICS_FILE = ANALYSIS_DIR / "metrics.txt"
 DEGREE_PLOT = ANALYSIS_DIR / "degree_distribution.png"
 INGREDIENT_PLOT = ANALYSIS_DIR / "ingredient_comparison.png"
 SHARED_PLOT = ANALYSIS_DIR / "shared_ingredients_network.png"
+RANDOM_PLOT = ANALYSIS_DIR / "random_comparison.png"
 
 
 def main() -> None:
@@ -53,6 +55,7 @@ def main() -> None:
     render_degree_distribution(graph, DEGREE_PLOT)
     render_ingredient_comparison(report, INGREDIENT_PLOT)
     render_shared_ingredients_network(graph, report, SHARED_PLOT)
+    render_random_comparison(report.random_baselines, RANDOM_PLOT)
 
     nodes, edges = graph.number_of_nodes(), graph.number_of_edges()
     print(f"Graph:       {GRAPH_FILE}  ({nodes} nodes, {edges} edges)")
