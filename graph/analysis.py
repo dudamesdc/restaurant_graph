@@ -27,6 +27,10 @@ class GraphMetrics:
     avg_clustering: float
     transitivity: float
     top_degree: list[tuple[str, int]] = field(default_factory=list)
+    top_betweenness: list[tuple[str, float]] = field(default_factory=list)
+    top_closeness: list[tuple[str, float]] = field(default_factory=list)
+    top_eigenvector: list[tuple[str, float]] = field(default_factory=list)
+    top_pagerank: list[tuple[str, float]] = field(default_factory=list)
 
 
 @dataclass(frozen=True)
@@ -80,6 +84,7 @@ def compute_metrics(graph: nx.MultiDiGraph, label: str, *, top_k: int = 10) -> G
     avg_path = nx.average_shortest_path_length(lcc) if lcc.number_of_nodes() > 1 else None
 
     top_degree = sorted(simple.degree(), key=lambda pair: pair[1], reverse=True)[:top_k]
+    top_bet, top_close, top_eigen, top_pr = _centralities_on_lcc(lcc, top_k)
 
     return GraphMetrics(
         label=label,
@@ -96,7 +101,44 @@ def compute_metrics(graph: nx.MultiDiGraph, label: str, *, top_k: int = 10) -> G
         avg_clustering=nx.average_clustering(simple),
         transitivity=nx.transitivity(simple),
         top_degree=top_degree,
+        top_betweenness=top_bet,
+        top_closeness=top_close,
+        top_eigenvector=top_eigen,
+        top_pagerank=top_pr,
     )
+
+
+def _centralities_on_lcc(
+    lcc: nx.Graph, top_k: int
+) -> tuple[
+    list[tuple[str, float]],
+    list[tuple[str, float]],
+    list[tuple[str, float]],
+    list[tuple[str, float]],
+]:
+    """Betweenness, closeness, eigenvector and PageRank — computed on the LCC only.
+
+    Eigenvector centrality is numerically fragile on disconnected graphs,
+    so we run all four on the largest connected component for consistency.
+    """
+    if lcc.number_of_nodes() < 2:
+        return [], [], [], []
+
+    betweenness = nx.betweenness_centrality(lcc)
+    closeness = nx.closeness_centrality(lcc)
+    eigenvector = nx.eigenvector_centrality_numpy(lcc)
+    pagerank = nx.pagerank(lcc)
+
+    return (
+        _top_centrality(betweenness, top_k),
+        _top_centrality(closeness, top_k),
+        _top_centrality(eigenvector, top_k),
+        _top_centrality(pagerank, top_k),
+    )
+
+
+def _top_centrality(scores: dict[str, float], top_k: int) -> list[tuple[str, float]]:
+    return sorted(scores.items(), key=lambda pair: pair[1], reverse=True)[:top_k]
 
 
 def compare_ingredients(graph: nx.MultiDiGraph) -> tuple[set[str], set[str], set[str]]:
@@ -149,7 +191,6 @@ def format_report(report: ComparativeReport) -> str:
 def _format_metrics(m: GraphMetrics) -> list[str]:
     diameter = "n/d" if m.diameter_lcc is None else str(m.diameter_lcc)
     avg_path = "n/d" if m.avg_shortest_path_lcc is None else f"{m.avg_shortest_path_lcc:.3f}"
-    top = ", ".join(f"{name} ({deg})" for name, deg in m.top_degree)
     return [
         f"== {m.label} ==",
         f"Nós            : {m.nodes}  (pratos={m.dishes}, ingredientes={m.ingredients})",
@@ -161,8 +202,20 @@ def _format_metrics(m: GraphMetrics) -> list[str]:
         f"Caminho médio  : {avg_path}",
         f"Clustering méd : {m.avg_clustering:.4f}",
         f"Transitividade : {m.transitivity:.4f}",
-        f"Top grau       : {top}",
+        f"Top grau       : {_fmt_pairs(m.top_degree, int_values=True)}",
+        f"Top betweenness: {_fmt_pairs(m.top_betweenness)}",
+        f"Top closeness  : {_fmt_pairs(m.top_closeness)}",
+        f"Top eigenvector: {_fmt_pairs(m.top_eigenvector)}",
+        f"Top pagerank   : {_fmt_pairs(m.top_pagerank)}",
     ]
+
+
+def _fmt_pairs(pairs: list[tuple[str, float]], *, int_values: bool = False) -> str:
+    if not pairs:
+        return "n/d"
+    if int_values:
+        return ", ".join(f"{name} ({int(value)})" for name, value in pairs)
+    return ", ".join(f"{name} ({value:.3f})" for name, value in pairs)
 
 
 def _ingredients_of(graph: nx.MultiDiGraph, restaurant: str) -> set[str]:
