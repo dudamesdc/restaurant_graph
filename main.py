@@ -1,12 +1,13 @@
 import os
-from ner_processor import build_graph
+
 import networkx as nx
+
+from ner_processor import build_graph
 
 
 def main():
     print("--- Iniciando Pipeline de Extração de Restaurantes ---")
     print("\n1. Extraindo dados dos arquivos HTML...")
-    
 
     print("\n2. Processando descrições com NER e construindo o Grafo (NetworkX)...")
     base_path = os.path.dirname(os.path.abspath(__file__))

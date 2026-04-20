@@ -1,9 +1,7 @@
 import json
-import spacy
-from spacy.matcher import PhraseMatcher
-from spacy.pipeline import EntityRuler
+
 import networkx as nx
-import os
+import spacy
 
 INGREDIENTS = {
     "PROTEINA": [
@@ -171,7 +169,7 @@ def build_graph(data_files):
     for file_path in data_files:
         print(f"Processando {file_path}...")
         try:
-            with open(file_path, "r", encoding="utf-8") as f:
+            with open(file_path, encoding="utf-8") as f:
                 items = json.load(f)
         except Exception as e:
             print(f"Erro ao ler {file_path}: {e}")

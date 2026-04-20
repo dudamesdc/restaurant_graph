@@ -1,11 +1,10 @@
-import networkx as nx
-from pyvis.network import Network
 import os
 
+import networkx as nx
+from pyvis.network import Network
 
-def visualize_graph_with_pyvis(
-    file_path, output_filename="grafo_restaurantes_pyvis.html"
-):
+
+def visualize_graph_with_pyvis(file_path, output_filename="grafo_restaurantes_pyvis.html"):
     if not os.path.exists(file_path):
         print(f"Erro: O arquivo '{file_path}' não foi encontrado.")
         return
@@ -53,9 +52,7 @@ def visualize_graph_with_pyvis(
         if "category" in data and data["category"]:
             title_hover += f"\nCategoria: {data['category']}"
 
-        net.add_node(
-            node, label=node, title=title_hover, color=color, size=size, shape=shape
-        )
+        net.add_node(node, label=node, title=title_hover, color=color, size=size, shape=shape)
 
     # Processa as arestas
     for source, target, data in G.edges(data=True):

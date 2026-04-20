@@ -1,7 +1,8 @@
 # visualize_graph.py
-import networkx as nx
-import matplotlib.pyplot as plt
 import os
+
+import matplotlib.pyplot as plt
+import networkx as nx
 
 
 def plot_graph(file_path):
@@ -44,9 +45,7 @@ def plot_graph(file_path):
 
     # Adiciona rótulos apenas para os pratos (para não poluir demais a imagem)
     # Se quiser ver todos, remova o filtro abaixo
-    labels = {
-        n: n for n in pratos if G.degree(n) > 5
-    }  # Apenas pratos com mais conexões
+    labels = {n: n for n in pratos if G.degree(n) > 5}  # Apenas pratos com mais conexões
     nx.draw_networkx_labels(G, pos, labels, font_size=8, font_family="sans-serif")
 
     plt.legend(scatterpoints=1)

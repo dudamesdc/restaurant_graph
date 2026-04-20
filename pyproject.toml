@@ -1,7 +1,7 @@
 [project]
 name = "restaurant-graph"
 version = "0.1.0"
-description = "Add your description here"
+description = "Menu graph builder that compares two Brazilian restaurants via NER over dish descriptions."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -15,5 +15,22 @@ dependencies = [
     "spacy>=3.8.14",
 ]
 
+[dependency-groups]
+dev = ["ruff>=0.13"]
+
 [tool.uv.sources]
 pt-core-news-lg = { url = "https://github.com/explosion/spacy-models/releases/download/pt_core_news_lg-3.8.0/pt_core_news_lg-3.8.0-py3-none-any.whl" }
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = [
+    "E",    # pycodestyle errors
+    "F",    # pyflakes
+    "I",    # isort
+    "UP",   # pyupgrade (modernize legacy syntax)
+    "B",    # bugbear
+    "SIM",  # simplify
+]
