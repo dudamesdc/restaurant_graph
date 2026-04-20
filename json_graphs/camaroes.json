@@ -1,507 +1,437 @@
 [
     {
         "prato": "COUVERT",
-        "preco": "31",
-        "descricao": "Cesta com pães artesanais e pastas (gorgonzola com frutas vermelhas; cream cheese com pralinè de castanhas; tomate seco com bacon)."
+        "descricao": "Cesta com pães a\u0000esanais e pastas (gorgonzola com frutas vermelhas; cream cheese com pralinè de castanhas; tomate seco com bacon).",
+        "preco": "31"
     },
     {
         "prato": "PASTEL DE CAMARÃO",
-        "preco": "18 | 26",
-        "descricao": "/unidade Camarão, catupiry e ervas."
+        "descricao": "/unidade Camarão, catupiry e ervas.",
+        "preco": "18 | 26"
     },
     {
         "prato": "PASTEL DE CARNE DE SOL",
-        "preco": "14 | 23",
-        "descricao": "/unidade Carne de sol, queijo de coalho, cebola roxa e coentro."
+        "descricao": "/unidade Carne de sol, queijo de coalho, cebola roxa e coentro.",
+        "preco": "14 | 23"
     },
     {
         "prato": "PASTEL DE QUEIJO COALHO",
-        "preco": "12 | 21",
-        "descricao": "/unidade"
+        "descricao": "/unidade",
+        "preco": "12 | 21"
     },
     {
         "prato": "BRUSCHETTA POTIGUAR",
-        "preco": "29 | 51",
-        "descricao": "/4 ou 8 unidades Dadinhos de tapioca coroados com creme formaggio, camarão grelhado, toque de pimenta agridoce e fio de mel de engenho."
+        "descricao": "/4 ou 8 unidades Dadinhos de tapioca coroados com creme formaggio, camarão grelhado, toque de pimenta agridoce e \u0000o de mel de engenho.",
+        "preco": "29 | 51"
     },
     {
         "prato": "CASQUINHO DE CARANGUEJO",
-        "preco": "23",
-        "descricao": "/sob consulta Carne de caranguejo refogada com azeite, tomate, cebola, coentro e leite de coco. Coberta com farofa."
+        "descricao": "/sob consulta Carne de caranguejo refogada com azeite, tomate, cebola, coentro e leite de coco. Cobe\u0000a com farofa.",
+        "preco": "23"
     },
     {
         "prato": "CAPRESE DE CAMARÃO",
-        "preco": "25 | 43",
-        "descricao": "Camarão ao pesto coberto com molho de tomate fresco e espuma de parmesão. Acompanha torradas."
+        "descricao": "en Camarão ao pesto cobe\u0000o com molho de tomate fresco e espuma de parmesão. Acompanha torradas.",
+        "preco": "25 | 43"
     },
     {
         "prato": "CEVICHE DE PEIXE E CAMARÃO",
-        "preco": "23 | 38",
-        "descricao": "Camarão e peixe marinados com azeite, suco de limão, cebola roxa, pimentões e coentro. Acompanha chips de batata doce."
-    },
-    {
-        "prato": "CEVICHE DE CAJU (VEGANO)",
-        "preco": "17 | 28",
-        "descricao": "/sob consulta Caju marinado com azeite, suco de limão, leite de coco, castanha, cebola roxa, pimentões, tomate cereja e coentro. Acompanha chips de batata doce."
+        "descricao": "Camarão e peixe marinados com azeite, suco de limão, cebola roxa, pimentões e coentro. Acompanha chips de batata doce. tra CEVICHE DE CAJU (VEGANO) 17 | 28 /sob consulta Caju marinado com azeite, suco de limão, leite de coco, castanha, cebola roxa, pimentões, tomate cereja e coentro. Acompanha chips de batata doce.",
+        "preco": "23 | 38"
     },
     {
         "prato": "BATATA TRUFADA",
-        "preco": "40",
-        "descricao": "Batata frita fininha temperada com sal, parmesão e azeite trufado. Acompanha maionese caseira."
+        "descricao": "Batata frita \u0000ninha temperada com sal, parmesão e azeite trufado. Acompanha maionese caseira. das",
+        "preco": "40"
     },
     {
         "prato": "ESCONDIDINHO DE CAMARÃO",
-        "preco": "31",
-        "descricao": "Camarão refogado na manteiga do sertão com tomate, nata fresca e coentro. Coberto com purê de macaxeira e gratinado com queijo de coalho."
+        "descricao": "Camarão refogado na manteiga do se\u0000ão com tomate, nata fresca e coentro. Cobe\u0000o com purê de macaxeira e gratinado com queijo de coalho.",
+        "preco": "31"
     },
     {
         "prato": "ESCONDIDINHO DE CARNE DE SOL",
-        "preco": "29",
-        "descricao": "Carne de sol desfiada e refogada na manteiga do sertão com cebola roxa, nata fresca e coentro. Coberta com purê de macaxeira e gratinada com queijo de coalho."
+        "descricao": "Carne de sol des\u0000ada e refogada na manteiga do se\u0000ão com cebola roxa, nata fresca e coentro. Cobe\u0000a com purê de macaxeira e gratinada com queijo de coalho.",
+        "preco": "29"
     },
     {
         "prato": "CAMARÃO PONTA NEGRA",
-        "preco": "75",
-        "descricao": "/8 unidades Camarão empanado recheado com catupiry e ervas. Acompanha molho golf e geleia de pimenta agridoce."
+        "descricao": "/8 unidades Camarão empanado recheado com catupiry e ervas. Acompanha molho golf e geleia de pimenta agridoce.",
+        "preco": "75"
     },
     {
         "prato": "CAMARÃO 294",
-        "preco": "82",
-        "descricao": "/250g Homenagem a um tradicional e querido bar potiguar. Camarão salteado na manteiga do sertão, finalizado com nata fresca e coentro. Acompanha torradas."
+        "descricao": "/250g Homenagem a um tradicional e querido bar potiguar. Camarão salteado na manteiga do se\u0000ão, \u0000nalizado com nata fresca e coentro. Acompanha torradas.",
+        "preco": "82"
     },
     {
         "prato": "CAMARÃO ESTRELA DO MAR",
-        "preco": "83",
-        "descricao": "/250g Camarão empanado com gergelim, servido com molhos golf e aioli com páprica."
+        "descricao": "/250g Camarão empanado com gergelim, servido com molhos golf e aioli com páprica.",
+        "preco": "83"
     },
     {
         "prato": "POLVO MAR E SERTÃO",
-        "preco": "99",
-        "descricao": "/200g Tentáculos de polvo (cortados) salteados na manteiga do sertão com cebola roxa, tomate, alcaparras, nata fresca e coentro. Acompanha torradas."
+        "descricao": "/200g Tentáculos de polvo (co\u0000ados) salteados na manteiga do se\u0000ão com cebola roxa, tomate, alcaparras, nata fresca e coentro. Acompanha torradas. )$R( siaer me sosserpxe serolaV",
+        "preco": "99"
     },
     {
         "prato": "FILEZINHO",
-        "preco": "54",
-        "descricao": "Filé mignon (em cubos) grelhado."
+        "descricao": "Filé mignon (em cubos) grelhado.",
+        "preco": "54"
     },
     {
         "prato": "PEIXE KIDS",
-        "preco": "49",
-        "descricao": "Filé de peixe (em cubos) grelhado."
+        "descricao": "Filé de peixe (em cubos) grelhado.",
+        "preco": "49"
     },
     {
         "prato": "FRANGO KIDS",
-        "preco": "38",
-        "descricao": "Filé de peito de frango (em fatias) grelhado."
+        "descricao": "Filé de peito de frango (em fatias) grelhado.",
+        "preco": "38"
     },
     {
         "prato": "CAMARÃO KIDS",
-        "preco": "54",
-        "descricao": "Filezinho de camarão grelhado."
+        "descricao": "Filezinho de camarão grelhado.",
+        "preco": "54"
     },
     {
         "prato": "CAMARÃO KIDS EMPANADO",
-        "preco": "54",
-        "descricao": "Filezinho de camarão à milanesa."
+        "descricao": "Filezinho de camarão à milanesa.",
+        "preco": "54"
     },
     {
         "prato": "PARMEGIANITO",
-        "preco": "52",
-        "descricao": "Filé mignon (em cubos) à milanesa, com molho de tomate gratinado com queijo."
-    },
-    {
-        "prato": "PÊ-É-FINHO BRASILEIRO",
-        "preco": "39",
-        "descricao": "Todo em textura de purê. Ragú de carne bovina, feijão preto, jerimum, brócolis e banana da terra."
+        "descricao": "Filé mignon (em cubos) à milanesa, com molho de tomate gratinado com queijo. sdik até 12 anos ybab Em parceria com Petit Poti, restaurante potiguar especialista em comida para bebês e introdução alimentar, um espaço dedicado aos nossos pequenos clientes. Sem adição de sal, açúcar, glúten, leite e derivados. Comidinhas feitas com sabor, segurança e muito amor. PÊ‑É‑FINHO BRASILEIRO 39 Todo em textura de purê. Ragú de carne bovina, feijão preto, jerimum, brócolis e banana da terra.",
+        "preco": "52"
     },
     {
         "prato": "RISOTINHO DE FRANGO COM LEGUMES",
-        "preco": "42",
-        "descricao": "Arroz agulhinha com creme de milho e inhame, filé de peito de frango desfiadinho, brócolis, ervilha, cenoura, abobrinha e tomate."
+        "descricao": "Arroz agulhinha com creme de milho e inhame, \u0000lé de peito de frango des\u0000adinho, brócolis, ervilha, cenoura, abobrinha e tomate.",
+        "preco": "42"
     },
     {
         "prato": "PARAFUSINHO À BOLONHESA",
-        "preco": "45",
-        "descricao": "Massa fusilli de arroz, músculo moído com cenoura, abobrinha e tomate com o super molho vermelho: feito com tomate, cenoura e beterraba."
-    },
-    {
-        "prato": "MOUSSE DE CACAU",
-        "preco": "28",
-        "descricao": "Um creminho nutritivo e delicioso, feito com cacau 100% puro, leite de coco caseiro, batata-doce e uva-passa branca."
+        "descricao": "Massa fusilli de arroz, músculo moído com cenoura, abobrinha e tomate com o super molho vermelho꞉ feito com tomate, cenoura e beterraba. MOUSSE DE CACAU 28 por Petit Poti Um creminho nutritivo e delicioso, feito com cacau 100% puro, leite de coco caseiro, batata‑doce a pa\u0000ir dos 6 meses e uva‑passa branca. Para mais informações, solicite tabela nutricional completa. Não realizamos modi\u0000cações nos pratos. Escolha uma proteína e dois acompanhamentos. ACOMPANHAMENTOS Escolha 2 opções. ARROZ BRANCO ARROZ COM BRÓCOLIS ARROZ CREMOSO COM QUEIJO PURÊ DE BATATA BATATA FRITA LEGUMES NO VAPOR FETTUCCINE NO AZEITE FETTUCCINE AO MOLHO DE TOMATE FETTUCCINE AO MOLHO BRANCO PALITINHOS CROCANTES DE QUEIJO COALHO",
+        "preco": "45"
     },
     {
         "prato": "SALADA PROVENÇAL",
-        "preco": "62",
-        "descricao": "Alface, cenoura, palmito, tomate seco, mozarela de búfala e crocante de parmesão. Acompanha molho de iogurte e torradas gratinadas."
+        "descricao": "Alface, cenoura, palmito, tomate seco, mozarela de búfala e crocante de parmesão. Acompanha molho de iogu\u0000e e torradas gratinadas.",
+        "preco": "62"
     },
     {
         "prato": "SALADA DE GORGONZOLA COM PERA",
-        "preco": "58",
-        "descricao": "COM CAMARÃO GRELHADO/180g 82 Fatias de pera assadas, queijo gorgonzola e mix de nuts temperadas. Servidas com alface, cenoura, palmito, tomate ao azeite de ervas e alho. Acompanha molho de mel de engenho e torradas gratinadas."
+        "descricao": "COM CAMARÃO GRELHADO/180g 82 Fatias de pera assadas, queijo gorgonzola e mix de nuts temperadas. Servidas com alface, cenoura, palmito, tomate ao azeite de ervas e alho. Acompanha molho de mel de engenho e torradas gratinadas.",
+        "preco": "58"
     },
     {
         "prato": "SALADA DE FRANGO",
-        "preco": "59",
-        "descricao": "Peito de frango (150g) marinado com mostarda e ervas e grelhado. Servido com alface, cenoura, palmito, tomate ao azeite de ervas e alho e crocante de parmesão. Acompanha molho de mostarda e mel e torradas gratinadas."
+        "descricao": "Peito de frango (150g) marinado com mostarda e ervas e grelhado. Servido com alface, cenoura, palmito, tomate ao azeite de ervas e alho e crocante de parmesão. Acompanha molho de mostarda e mel e torradas gratinadas.",
+        "preco": "59"
     },
     {
         "prato": "SALADA DE CAMARÃO",
-        "preco": "78",
-        "descricao": "Camarão grelhado (180g) servido com com alface, cenoura, palmito, tomate ao azeite de ervas e alho e crocante de parmesão. Acompanha molho de iogurte com ervas e torradas gratinadas."
-    },
-    {
-        "prato": "RISOTO BRIE (VEGETARIANO)",
-        "preco": "54",
-        "descricao": "Risoto de queijo brie, damasco, abobrinha e amêndoas. Servido com molho de frutas vermelhas."
+        "descricao": "Camarão grelhado (180g) servido com com alface, cenoura, palmito, tomate ao azeite de ervas e alho e crocante de parmesão. Acompanha molho de iogu\u0000e com ervas e torradas gratinadas. RISOTO BRIE (VEGETARIANO) 54 Risoto de queijo brie, damasco, abobrinha e amêndoas. Servido com molho de frutas vermelhas.",
+        "preco": "78"
     },
     {
         "prato": "MOQUECA VEGANA",
-        "preco": "50",
-        "descricao": "Jerimum, batata e banana da terra (sazonal) ao molho moqueca, com leite de coco, castanha de caju e cheiro verde. Acompanha arroz branco."
+        "descricao": "Jerimum, batata e banana da terra (sazonal) ao molho moqueca, com leite de coco, castanha de caju e cheiro verde. Acompanha arroz branco. RISOTO POMODORO (VEGANO) 57 Risoto de cogumelos com tomate fresco, brócolis, molho de tomate e castanha de caju. FETTUCCINE AO CREME DE CASTANHA (VEGANO) 52 Fe\u0000uccine ao bechamel de castanhas de caju com julienne de legumes, tomate seco e brócolis. Finalizado com azeite de ervas e mix de nuts temperadas. Intolerantes e alérgicos꞉ dispomos de equipamentos e utensílios exclusivos para alérgicos e nos dedicamos a adaptar nossas receitas à sua restrição. No entanto, há traços de glúten, lactose e castanhas em nossa cozinha. Além disso, as descrições dos pratos podem não listar todos os ingredientes. Solicite a presença de nosso maître para dúvidas e recomendações. )$R( siaer me sosserpxe serolaV",
+        "preco": "50"
     },
     {
-        "prato": "RISOTO POMODORO (VEGANO)",
-        "preco": "57",
-        "descricao": "Risoto de cogumelos com tomate fresco, brócolis, molho de tomate e castanha de caju."
+        "prato": "CAMARÃO À GREGA 130 CAMARÃO SERIDÓ",
+        "descricao": "Camarão à milanesa, servido sobre arroz à grega Camarão refogado na manteiga do se\u0000ão com (ervilha, cenoura, presunto e uva passa), cobe\u0000o verduras, nata fresca e coentro. Servido sobre arroz com molho de tomate e gratinado com queijo cremoso da terra e gratinado com queijo de coalho. mozarela. Acompanha batata palha. Acompanha macaxeira frita.",
+        "preco": "125"
     },
     {
-        "prato": "FETTUCCINE AO CREME DE CASTANHA (VEGANO)",
-        "preco": "52",
-        "descricao": "Fettuccine ao bechamel de castanhas de caju com julienne de legumes, tomate seco e brócolis. Finalizado com azeite de ervas e mix de nuts temperadas."
-    },
-    {
-        "prato": "CAMARÃO À GREGA",
-        "preco": "130",
-        "descricao": "Camarão à milanesa, servido sobre arroz à grega (ervilha, cenoura, presunto e uva passa), coberto com molho de tomate e gratinado com queijo mozarela. Acompanha batata palha."
-    },
-    {
-        "prato": "CAMARÃO SERIDÓ",
-        "preco": "125",
-        "descricao": "Camarão refogado na manteiga do sertão com verduras, nata fresca e coentro. Servido sobre arroz cremoso da terra e gratinado com queijo de coalho. Acompanha macaxeira frita."
-    },
-    {
-        "prato": "CAMARÃO INTERNACIONAL",
-        "preco": "129",
-        "descricao": "Camarão salteado com molho branco, servido sobre arroz cremoso com ervilha e presunto. Gratinado com queijos mozarela e parmesão. Acompanha batata palha."
-    },
-    {
-        "prato": "CAMARÃO DIJON",
-        "preco": "130",
-        "descricao": "Camarão salteado com vinho branco, molho branco, palmito e mostarda Dijon em grãos, servido sobre arroz cremoso com julienne de legumes e ervilha. Gratinado com queijos mozarela e parmesão. Acompanha batata palha."
+        "prato": "CAMARÃO INTERNACIONAL 129 CAMARÃO DIJON",
+        "descricao": "Camarão salteado com molho branco, servido Camarão salteado com vinho branco, molho branco, sobre arroz cremoso com ervilha e presunto. palmito e mostarda Dijon em grãos, servido sobre Gratinado com queijos mozarela e parmesão. arroz cremoso com julienne de legumes e ervilha. Acompanha batata palha. Gratinado com queijos mozarela e parmesão. Acompanha batata palha.",
+        "preco": "130"
     },
     {
         "prato": "CAMARÃO DO CHEF",
-        "preco": "140",
-        "descricao": "Camarão à milanesa, servido sobre arroz cremoso de manjericão e coberto com molho de tomate, azeitona preta e orégano. Gratinado com queijo mozarela. Acompanha batata palha."
+        "descricao": "Camarão à milanesa, servido sobre arroz cremoso CAMARÃO GRATIN 129 de manjericão e cobe\u0000o com molho de tomate, Camarão salteado com molho branco, vinho branco, azeitona preta e orégano. Gratinado com queijo cebola roxa, tomate cereja e ervas. Servido sobre arroz mozarela. Acompanha batata palha. cremoso com alho‑poró e tomate seco, gratinado com queijos catupiry e parmesão. Acompanha batata frita com páprica. CAMARÃO CANTO",
+        "preco": "140"
     },
     {
-        "prato": "CAMARÃO GRATIN",
-        "preco": "129",
-        "descricao": "Camarão salteado com molho branco, vinho branco, cebola roxa, tomate cereja e ervas. Servido sobre arroz cremoso com alho-poró e tomate seco, gratinado com queijos catupiry e parmesão. Acompanha batata frita com páprica."
+        "prato": "DO MANGUE",
+        "descricao": "/sob consulta Camarão salteado na manteiga do se\u0000ão com molho de camarão, tomate, cebola roxa e coentro. Servido sobre arroz de caranguejo e gratinado com queijo de coalho. Acompanha macaxeira frita.",
+        "preco": "152"
     },
     {
-        "prato": "CAMARÃO CANTO DO MANGUE",
-        "preco": "152",
-        "descricao": "/sob consulta Camarão salteado na manteiga do sertão com molho de camarão, tomate, cebola roxa e coentro. Servido sobre arroz de caranguejo e gratinado com queijo de coalho. Acompanha macaxeira frita."
+        "prato": "CAMARÃO IMPERIAL 179 RISONI DE CAMARÃO E COGUMELOS",
+        "descricao": "Camarão empanado, recheado com catupiry Camarão salteado com cebola roxa, alho‑poró, mix de e ervas. Acompanha arroz cremoso com queijo cogumelos e raspas de limão siciliano. Servido sobre risoni parmesão, vinho branco, bacon, julienne de legumes (massa grano duro com formato de arroz) ao molho de e, à pa\u0000e, geleia de pimenta agridoce. camarão e parmesão.",
+        "preco": "134"
     },
     {
-        "prato": "CAMARÃO IMPERIAL",
-        "preco": "179",
-        "descricao": "Camarão empanado, recheado com catupiry e ervas. Acompanha arroz cremoso com queijo parmesão, vinho branco, bacon, julienne de legumes e, à parte, geleia de pimenta agridoce."
+        "prato": "CAMARÃO DOM ALFREDO 142 CAMARÃO COM NHOQUE CROCANTE",
+        "descricao": "Camarão grelhado, servido sobre fe\u0000uccine ao Camarão \u0000ambado e salteado com alho, cebola caramelizada, molho cremoso com queijo parmesão, vinho branco, tomate cereja, brócolis, nata fresca, toque de molho de tomate bacon e julienne de legumes. Cobe\u0000o com farofa de e bacon. Acompanha nhoque de macaxeira frito sobre fondue pão, bacon e ervas. de queijos.",
+        "preco": "136"
     },
     {
-        "prato": "RISONI DE CAMARÃO E COGUMELOS",
-        "preco": "134",
-        "descricao": "Camarão salteado com cebola roxa, alho-poró, mix de cogumelos e raspas de limão siciliano. Servido sobre risoni (massa grano duro com formato de arroz) ao molho de camarão e parmesão."
-    },
-    {
-        "prato": "CAMARÃO DOM ALFREDO",
-        "preco": "142",
-        "descricao": "Camarão grelhado, servido sobre fettuccine ao molho cremoso com queijo parmesão, vinho branco, bacon e julienne de legumes. Coberto com farofa de pão, bacon e ervas."
-    },
-    {
-        "prato": "CAMARÃO COM NHOQUE CROCANTE",
-        "preco": "136",
-        "descricao": "Camarão flambado e salteado com alho, cebola caramelizada, tomate cereja, brócolis, nata fresca, toque de molho de tomate e bacon. Acompanha nhoque de macaxeira frito sobre fondue de queijos."
-    },
-    {
-        "prato": "CAMARÃO BONFIM",
-        "preco": "134",
-        "descricao": "Camarão salteado na manteiga do sertão com cebola roxa, tomate, castanha de caju, pimenta biquinho, queijo de coalho assado e coentro. Servido com risoto de vatapá com toque de azeite de dendê."
-    },
-    {
-        "prato": "CAMARÃO TERRA BRASILIS",
-        "preco": "135",
-        "descricao": "Camarão salteado com manteiga de ervas, cebola caramelizada, pimenta biquinho e queijo de coalho, servido sobre risoto de banana da terra. Finalizado com castanha do Pará assada, cebolinha e redução de mel de engenho."
-    },
-    {
-        "prato": "CAMARÃO FLOR DE SAL",
-        "preco": "156",
-        "descricao": "Camarão grelhado, regado com azeite de ervas, tomate cereja, mozarela de búfala e flor de sal. Acompanha arroz com amêndoas e legumes grelhados com batata formaggio com bacon."
-    },
-    {
-        "prato": "CAMARÃO COM QUINOA E PURÊ DE BANANA",
-        "preco": "142",
-        "descricao": "Camarão grelhado com molho de nata, limão siciliano e coentro, servido sobre quinoa com legumes, grãos, maçã verde e bacon. Acompanha purê de banana da terra finalizado com castanha de caju."
+        "prato": "CAMARÃO BONFIM 134 CAMARÃO TERRA BRASILIS",
+        "descricao": "Camarão salteado na manteiga do se\u0000ão com cebola Camarão salteado com manteiga de ervas, cebola roxa, tomate, castanha de caju, pimenta biquinho, caramelizada, pimenta biquinho e queijo de coalho, servido queijo de coalho assado e coentro. Servido com risoto sobre risoto de banana da terra. Finalizado com castanha de vatapá com toque de azeite de dendê. do Pará assada, cebolinha e redução de mel de engenho. CAMARÃO FLOR DE SAL 156 CAMARÃO COM QUINOA Camarão grelhado, regado com azeite de ervas, tomate E PURÊ DE BANANA 142 cereja, mozarela de búfala e \u0000or de sal. Acompanha arroz Camarão grelhado com molho de nata, limão siciliano e com amêndoas e legumes grelhados com batata formaggio coentro, servido sobre quinoa com legumes, grãos, maçã com bacon. verde e bacon. Acompanha purê de banana da terra \u0000nalizado com castanha de caju.",
+        "preco": "135"
     },
     {
         "prato": "CAMARÃO CIDADE DO SOL",
-        "preco": "148",
-        "descricao": "Camarão empanado com mix de panko, parmesão e ervas. Acompanha risoto de provolone com azeite trufado, crispy de alho-poró e geleia de damasco."
+        "descricao": "Camarão empanado com mix de panko, parmesão e ervas. NHOQUE DE BANANA DA TERRA Acompanha risoto de provolone com azeite trufado, crispy",
+        "preco": "148"
     },
     {
-        "prato": "NHOQUE DE BANANA DA TERRA COM CAMARÃO",
-        "preco": "130",
-        "descricao": "/sob consulta Nhoque de banana da terra com camarões grelhados, salteados com molho de nata, cebola roxa e cebolinha, cobertos com crispy de carne de sol. Acompanha palitinhos de queijo coalho crocantes."
-    },
-    {
-        "prato": "CAMARÃO ALL’AMATRICIANA",
-        "preco": "135",
-        "descricao": "Camarão salteado com tomate seco, azeitona preta e assado com farofa de ervas e parmesão. Acompanha risoto de tomate com bacon e manjericão."
+        "prato": "COM CAMARÃO",
+        "descricao": "de alho‑poró e geleia de damasco. /sob consulta Nhoque de banana da terra com camarões grelhados, CAMARÃO ALL’AMATRICIANA 135 salteados com molho de nata, cebola roxa e cebolinha, cobe\u0000os com crispy de carne de sol. Acompanha palitinhos Camarão salteado com tomate seco, azeitona preta de queijo coalho crocantes. e assado com farofa de ervas e parmesão. Acompanha risoto de tomate com bacon e manjericão.",
+        "preco": "130"
     },
     {
         "prato": "CAMARÃO TERYIAKI",
-        "preco": "142",
-        "descricao": "Camarão salteado com molho teriyaki, abacaxi grelhado, castanha de caju, cebolinha e gergelim. Acompanha arroz com castanhas e legumes salteados com batata formaggio."
+        "descricao": "Camarão salteado com molho teriyaki, abacaxi grelhado, castanha de caju, cebolinha e gergelim. Acompanha arroz com castanhas e legumes salteados com batata formaggio. Intolerantes e alérgicos꞉ dispomos de equipamentos e utensílios exclusivos para alérgicos e nos dedicamos a adaptar nossas receitas à sua restrição. No entanto, há traços de glúten, lactose e castanhas em nossa cozinha. Além disso, as descrições dos pratos podem não listar todos os ingredientes. Solicite a presença de nosso maître para dúvidas e recomendações.",
+        "preco": "142"
     },
     {
         "prato": "GRELHADOS DO MAR",
-        "preco": "184",
-        "descricao": "Frutos do mar (camarão, peixe, lula e polvo) grelhados, servidos com arroz com brócolis e legumes salteados com batata formaggio com bacon."
+        "descricao": "Frutos do mar (camarão, peixe, lula e polvo) grelhados, servidos com arroz com brócolis e legumes salteados com batata formaggio com bacon.",
+        "preco": "184"
     },
     {
         "prato": "MOQUECA DO MAR",
-        "preco": "192",
-        "descricao": "Frutos do mar (camarão, peixe, lula e polvo) refogados com tomate, cebola, pimentão, leite de coco, coentro e leve toque de azeite de dendê. Acompanha arroz branco, pirão de peixe e farofa."
+        "descricao": "Frutos do mar (camarão, peixe, lula e polvo) refogados com tomate, cebola, pimentão, leite de coco, coentro e leve toque de azeite de dendê. Acompanha arroz branco, pirão de peixe e farofa.",
+        "preco": "192"
     },
     {
         "prato": "FRUTOS DO MAR AO AZEITE DE ERVAS",
-        "preco": "189",
-        "descricao": "Frutos do mar (camarão, peixe, lula e polvo) grelhados, regados com molho de azeite de ervas, champignon, alcaparras e tomate cereja. Acompanha risoto de limão siciliano com abobrinha e gergelim."
+        "descricao": "Frutos do mar (camarão, peixe, lula e polvo) grelhados, regados com molho de azeite de ervas, champignon, alcaparras e tomate cereja. Acompanha risoto de limão siciliano com abobrinha e gergelim.",
+        "preco": "189"
     },
     {
         "prato": "RISOTO DE POLVO E CAMARÃO",
-        "preco": "125",
-        "descricao": "Arroz arbóreo com polvo em seu próprio caldo, servido com camarão grelhado e molho aioli com leve toque de páprica defumada."
+        "descricao": "Arroz arbóreo com polvo em seu próprio caldo, servido com camarão grelhado e molho aioli com leve toque de páprica defumada. )$R( siaer me sosserpxe serolaV frutos do mar PARA DUAS PESSOAS",
+        "preco": "224"
     },
     {
         "prato": "SALMÃO TROPICAL",
-        "preco": "136",
-        "descricao": "Salmão com crosta de gergelim, servido sobre molho cremoso de manga. Acompanha arroz com brócolis e purê de batata."
+        "descricao": "PEIXE VILA FLOR 118 | 146 | 188 Salmão com crosta de gergelim, servido sobre molho Peixe grelhado, regado com molho de manteiga cremoso de manga. Acompanha arroz com brócolis com castanha do Pará laminada sobre julienne de e purê de batata. legumes. Acompanha arroz com brócolis e purê de banana da terra \u0000nalizado com castanha de caju. SALMÃO TERIYAKI 146 Salmão ao forno ao molho teriyaki, abacaxi grelhado, castanha de caju, cebolinha e gergelim. Acompanha arroz com castanhas e legumes salteados com batata formaggio com bacon. TILÁPIA VILA FLOR )$R( siaer me sosserpxe serolaV",
+        "preco": "136"
     },
     {
-        "prato": "PEIXE VILA FLOR",
-        "preco": "118 | 146 | 188",
-        "descricao": "Peixe grelhado, regado com molho de manteiga com castanha do Pará laminada sobre julienne de legumes. Acompanha arroz com brócolis e purê de banana da terra finalizado com castanha de caju."
+        "prato": "PEIXE AO MOLHO MOQUECA DE PEIXE E CAMARÃO",
+        "descricao": "DE CAMARÃO 144 | 168 | 210 Peixe e camarão refogados com tomate, cebola, Peixe grelhado, cobe\u0000o com molho cremoso de camarão, pimentão, leite de coco, coentro e leve toque de azeite tomate e coentro. Acompanha arroz com brócolis de dendê. Acompanha arroz branco, pirão de peixe e purê de batata. e farofa.",
+        "preco": "168"
     },
     {
-        "prato": "SALMÃO TERIYAKI",
-        "preco": "146",
-        "descricao": "Salmão ao forno ao molho teriyaki, abacaxi grelhado, castanha de caju, cebolinha e gergelim. Acompanha arroz com castanhas e legumes salteados com batata formaggio com bacon."
+        "prato": "PEIXE COM RISOTO SALMÃO COM CAMARÃO TERIYAKI",
+        "descricao": "Salmão ao forno, cobe\u0000o com camarão ao molho",
+        "preco": "192"
     },
     {
-        "prato": "PEIXE AO MOLHO DE CAMARÃO",
-        "preco": "144 | 168 | 210",
-        "descricao": "Peixe grelhado, coberto com molho cremoso de camarão, tomate e coentro. Acompanha arroz com brócolis e purê de batata."
+        "prato": "DE CAMARÃO",
+        "descricao": "teriyaki, abacaxi grelhado, castanha de caju, cebolinha Peixe grelhado, regado com azeite, tomate cereja e alho e gergelim. Acompanha arroz com castanhas e legumes laminado. Servido com risoto de camarão, tomate fresco salteados com batata formaggio com bacon. e abobrinha. PEIXE COM CAMARÃO",
+        "preco": "154 | 178 | 220"
     },
     {
-        "prato": "MOQUECA DE PEIXE E CAMARÃO",
-        "preco": "168",
-        "descricao": "Peixe e camarão refogados com tomate, cebola, pimentão, leite de coco, coentro e leve toque de azeite de dendê. Acompanha arroz branco, pirão de peixe e farofa."
-    },
-    {
-        "prato": "PEIXE COM RISOTO DE CAMARÃO",
-        "preco": "154 | 178 | 220",
-        "descricao": "Peixe grelhado, regado com azeite, tomate cereja e alho laminado. Servido com risoto de camarão, tomate fresco e abobrinha."
-    },
-    {
-        "prato": "SALMÃO COM CAMARÃO TERIYAKI",
-        "preco": "192",
-        "descricao": "Salmão ao forno, coberto com camarão ao molho teriyaki, abacaxi grelhado, castanha de caju, cebolinha e gergelim. Acompanha arroz com castanhas e legumes salteados com batata formaggio com bacon."
-    },
-    {
-        "prato": "PEIXE COM CAMARÃO BRISA DO MAR",
-        "preco": "146 | 168 | 210",
-        "descricao": "Peixe e camarão grelhados, regados com molho de azeite, vinho branco, limão e castanhas do Pará laminadas. Servido com mousseline de jerimum sem lactose e arroz com brócolis (ou brócolis salteado)."
+        "prato": "BRISA DO MAR",
+        "descricao": "Peixe e camarão grelhados, regados com molho de azeite, vinho branco, limão e castanhas do Pará laminadas. Servido com mousseline de jerimum sem lactose e arroz com brócolis (ou brócolis salteado).",
+        "preco": "146 | 168 | 210"
     },
     {
         "prato": "FILÉ À PARMEGIANA",
-        "preco": "144",
-        "descricao": "Escalopes de filé mignon à milanesa, servidos sobre fettuccine ao molho de tomate e gratinados com queijos mozarela e parmesão."
+        "descricao": "Escalopes de \u0000lé mignon à milanesa, servidos sobre fe\u0000uccine ao molho de tomate e gratinados com queijos mozarela e parmesão.",
+        "preco": "144"
     },
     {
         "prato": "FILÉ AO CATUPIRY",
-        "preco": "152",
-        "descricao": "Medalhões de filé mignon grelhados com bacon, com creme de catupiry e ervas, sobre molho rôti com champignon. Acompanha arroz à grega (ervilha, cenoura, presunto e uva passa) e purê de batata."
+        "descricao": "Medalhões de \u0000lé mignon grelhados com bacon, com creme de catupiry e ervas, sobre molho rôti com champignon. Acompanha arroz à grega (ervilha, cenoura, presunto e uva passa) e purê de batata.",
+        "preco": "152"
     },
     {
         "prato": "FILÉ POTIGUAR",
-        "preco": "142",
-        "descricao": "Medalhões de filé mignon grelhados com bacon, sobre molho rôti, cobertos com aligot de macaxeira e farofa de bacon. Acompanha arroz de carne de sol e banana empanada."
+        "descricao": "Medalhões de \u0000lé mignon grelhados com bacon, sobre molho rôti, cobe\u0000os com aligot de macaxeira e farofa de bacon. Acompanha arroz de carne de sol e banana empanada.",
+        "preco": "142"
     },
     {
         "prato": "FILÉ MERLOT",
-        "preco": "172",
-        "descricao": "Medalhões de filé mignon grelhados com bacon ao molho de vinho tinto. Acompanha risoto ao funghi com bacon, alho-poró e crocante de parmesão."
+        "descricao": "Medalhões de \u0000lé mignon grelhados com bacon ao molho de vinho tinto. Acompanha risoto ao funghi com bacon, alho‑poró e crocante de parmesão.",
+        "preco": "172"
     },
     {
         "prato": "FILÉ DO BOSQUE",
-        "preco": "160",
-        "descricao": "Medalhões de filé mignon grelhados com bacon, ao molho escuro agridoce com frutas vermelhas. Acompanha fettuccine aos quatro queijos com crocante de bacon."
+        "descricao": "Medalhões de \u0000lé mignon grelhados com bacon, ao molho escuro agridoce com frutas vermelhas. Acompanha fe\u0000uccine aos quatro queijos com crocante de bacon. FILÉ TRUFADO COM RISOTO",
+        "preco": "160"
     },
     {
-        "prato": "FILÉ TRUFADO COM RISOTO DE PROVOLONE",
-        "preco": "168",
-        "descricao": "Medalhões de filé mignon grelhados com bacon e flambados sobre molho rôti com crispy de alho-poró. Acompanha risoto de provolone com azeite trufado, crispy de alho-poró e geleia de damasco."
+        "prato": "DE PROVOLONE",
+        "descricao": "Medalhões de \u0000lé mignon grelhados com bacon e \u0000ambados sobre molho rôti com crispy de alho‑poró. Acompanha risoto de provolone com azeite trufado, crispy de alho‑poró e geleia de damasco.",
+        "preco": "168"
     },
     {
         "prato": "FILÉ AOS QUATRO QUEIJOS",
-        "preco": "146",
-        "descricao": "Medalhões de filé mignon grelhados com bacon ao molho cremoso de queijos. Acompanha arroz à grega e batata rústica com parmesão."
+        "descricao": "Medalhões de \u0000lé mignon grelhados com bacon ao molho cremoso de queijos. Acompanha arroz à grega e batata rústica com parmesão.",
+        "preco": "146"
     },
     {
         "prato": "CARNE DE SOL SERTANEJA",
-        "preco": "102",
-        "descricao": "Carne de sol assada, desfiada e refogada com manteiga do sertão, cebola roxa, coentro e nata fresca. Servida sobre arroz cremoso da terra e gratinada com queijo de coalho. Acompanha macaxeira frita."
+        "descricao": "Carne de sol assada, des\u0000ada e refogada com manteiga do se\u0000ão, cebola roxa, coentro e nata fresca. Servida sobre arroz cremoso da terra e gratinada com queijo de coalho. Acompanha macaxeira frita.",
+        "preco": "102"
     },
     {
         "prato": "FRANGO MEDITERRÂNEO",
-        "preco": "105",
-        "descricao": "Filé de frango empanado, servido sobre fettuccine ao molho pesto cremoso. Gratinado com molho de tomate e queijos mozarela e parmesão."
+        "descricao": "Filé de frango empanado, servido sobre fe\u0000uccine ao molho pesto cremoso. Gratinado com molho de tomate e queijos mozarela e parmesão. )$R( siaer me sosserpxe serolaV",
+        "preco": "105"
     },
     {
         "prato": "CAMARÃO DOM ALFREDO",
-        "preco": "87",
-        "descricao": "Camarão grelhado, servido sobre fettuccine ao molho cremoso com queijo parmesão, vinho branco, bacon e julienne de legumes. Coberto com farofa de pão, bacon e ervas."
+        "descricao": "Camarão grelhado, servido sobre fe\u0000uccine ao molho cremoso com queijo parmesão, vinho branco, bacon e julienne de legumes. Cobe\u0000o com farofa de pão, bacon e ervas.",
+        "preco": "87"
     },
     {
         "prato": "CAMARÃO DO CHEF",
-        "preco": "92",
-        "descricao": "Camarão à milanesa, servido sobre arroz cremoso de manjericão e coberto com molho de tomate, azeitona preta e orégano. Gratinado com queijo mozarela. Acompanha batata palha."
+        "descricao": "Camarão à milanesa, servido sobre arroz cremoso de manjericão e cobe\u0000o com molho de tomate, azeitona preta e orégano. Gratinado com queijo mozarela. Acompanha batata palha.",
+        "preco": "92"
     },
     {
         "prato": "CAMARÃO INTERNACIONAL",
-        "preco": "83",
-        "descricao": "Camarão salteado com molho branco, servido sobre arroz cremoso com ervilha e presunto. Gratinado com queijos mozarela e parmesão. Acompanha batata palha."
+        "descricao": "Camarão salteado com molho branco, servido sobre arroz cremoso com ervilha e presunto. Gratinado com queijos mozarela e parmesão. Acompanha batata palha.",
+        "preco": "83"
     },
     {
         "prato": "RISONI DE CAMARÃO E COGUMELOS",
-        "preco": "88",
-        "descricao": "Camarão salteado com cebola roxa, alho-poró, mix de cogumelos e raspas de limão siciliano. Servido sobre risoni (massa grano duro com formato de arroz) ao molho de camarão e parmesão."
+        "descricao": "Camarão salteado com cebola roxa, alho‑poró, mix de cogumelos e raspas de limão siciliano. Servido sobre risoni (massa grano duro com formato de arroz) ao molho de camarão e parmesão.",
+        "preco": "88"
     },
     {
         "prato": "NHOQUE DE BANANA DA TERRA COM CAMARÃO",
-        "preco": "89",
-        "descricao": "Nhoque de banana da terra com camarões grelhados, salteados com molho de nata, cebola roxa e cebolinha, cobertos com crispy de carne de sol. Acompanha palitinhos de queijo coalho crocantes."
+        "descricao": "Nhoque de banana da terra com camarões grelhados, salteados com molho de nata, cebola roxa e cebolinha, cobe\u0000os com crispy de carne de sol. Acompanha palitinhos de queijo coalho crocantes.",
+        "preco": "89"
     },
     {
         "prato": "CAMARÃO TERRA BRASILIS",
-        "preco": "88",
-        "descricao": "Camarão salteado com manteiga de ervas, cebola caramelizada, pimenta biquinho e queijo de coalho, servido sobre risoto de banana da terra. Finalizado com castanha do Pará assada, cebolinha e redução de mel de engenho."
+        "descricao": "Camarão salteado com manteiga de ervas, cebola caramelizada, pimenta biquinho e queijo de coalho, servido sobre risoto de banana da terra. Finalizado com castanha do Pará assada, cebolinha e redução de mel de engenho.",
+        "preco": "88"
     },
     {
         "prato": "PEIXE COM AMÊNDOAS E RISOTO SICILIANO",
-        "preco": "69",
-        "descricao": "Tilápia grelhada, regada com molho de manteiga com amêndoas. Servida com risoto de limão siciliano com abobrinha e gergelim."
+        "descricao": "Tilápia grelhada, regada com molho de manteiga com amêndoas. Servida com risoto de limão siciliano com abobrinha e gergelim.",
+        "preco": "69"
     },
     {
         "prato": "PEIXE COM CAMARÃO BRISA DO MAR",
-        "preco": "95",
-        "descricao": "Tilápia e camarão grelhados, regados com molho de azeite, vinho branco, limão e castanhas do Pará laminadas. Servido com mousseline de jerimum sem lactose e arroz com brócolis (ou brócolis salteado)."
+        "descricao": "Tilápia e camarão grelhados, regados com molho de azeite, vinho branco, limão e castanhas do Pará laminadas. Servido com mousseline de jerimum sem lactose e arroz com brócolis (ou brócolis salteado).",
+        "preco": "95"
+    },
+    {
+        "prato": "RISOTO DE POLVO E CAMARÃO",
+        "descricao": "Arroz arbóreo com polvo em seu próprio caldo, servido com camarão grelhado e molho aioli com leve toque de páprica defumada.",
+        "preco": "125"
     },
     {
         "prato": "POLVO GRELHADO COM BATATA RÚSTICA",
-        "preco": "106",
-        "descricao": "Tentáculos de polvo grelhados com azeite de ervas e servidos com arroz com brócolis e batata rústica com parmesão. Acompanha maionese caseira."
+        "descricao": "Tentáculos de polvo grelhados com azeite de ervas e servidos com arroz com brócolis e batata rústica com parmesão. Acompanha maionese caseira.",
+        "preco": "106"
+    },
+    {
+        "prato": "FILÉ À PARMEGIANA",
+        "descricao": "Escalopes de \u0000lé mignon à milanesa, servidos sobre fe\u0000uccine ao molho de tomate e gratinados com queijos mozarela e parmesão.",
+        "preco": "93"
+    },
+    {
+        "prato": "FILÉ TRUFADO COM RISOTO DE PROVOLONE",
+        "descricao": "Medalhões de \u0000lé mignon grelhados com bacon e \u0000ambados sobre molho rôti com crispy de alho‑poró. Acompanha risoto de provolone com azeite trufado, crispy de alho‑poró e geleia de damasco.",
+        "preco": "108"
+    },
+    {
+        "prato": "FRANGO MEDITERRÂNEO",
+        "descricao": "Filé de frango empanado, servido sobre fe\u0000uccine ao molho pesto cremoso. Gratinado com molho de tomate e queijos mozarela e parmesão. No momento, somente estes pratos estão disponíveis em versão individual. Apenas mudanças simples, como retirada de ingredientes, são admitidas.",
+        "preco": "67"
     },
     {
         "prato": "PETIT GATEAU DE CHOCOLATE",
-        "preco": "33",
-        "descricao": "Com sorvete artesanal de baunilha."
+        "descricao": "Com sorvete a\u0000esanal de baunilha.",
+        "preco": "33"
     },
     {
         "prato": "PETIT GATEAU DE DOCE DE LEITE",
-        "preco": "31",
-        "descricao": "Com sorvete artesanal de creme crocante e calda de laranja."
+        "descricao": "Com sorvete a\u0000esanal de creme crocante e calda de laranja.",
+        "preco": "31"
     },
     {
         "prato": "PETIT GATEAU DE PISTACHE",
-        "preco": "37",
-        "descricao": "Com sorvete artesanal de baunilha."
+        "descricao": "Com sorvete a\u0000esanal de baunilha.",
+        "preco": "37"
     },
     {
         "prato": "TAÇA ROMEU E JULIETA",
-        "preco": "20 | 33",
-        "descricao": "Sorvete artesanal de nata goiaba coberto com mousse de queijo, calda de goiaba, queijo de coalho ralado e biscoito de castanha."
+        "descricao": "Sorvete a\u0000esanal de nata goiaba cobe\u0000o com mousse de queijo, calda de goiaba, queijo de coalho ralado e biscoito de castanha.",
+        "preco": "20 | 33"
     },
     {
         "prato": "TAÇA TIRAMISU",
-        "preco": "19 | 30",
-        "descricao": "Sorvete artesanal de cappuccino coberto com mousse de queijo, biscoito champagne caseiro, calda de café e crocante de cacau."
+        "descricao": "Sorvete a\u0000esanal de cappuccino cobe\u0000o com mousse de queijo, biscoito champagne caseiro, calda de café e crocante de cacau.",
+        "preco": "19 | 30"
     },
     {
         "prato": "NAKED DE NINHO",
-        "preco": "33",
-        "descricao": "Torta de chocolate em camadas alternadas com mousse de ninho, pralinè de castanhas, calda de chocolate e sorvete artesanal de baunilha."
+        "descricao": "To\u0000a de chocolate em camadas alternadas com mousse de ninho, pralinè de castanhas, calda de chocolate e sorvete a\u0000esanal de baunilha.",
+        "preco": "33"
     },
     {
         "prato": "MIL FOLHAS DE DOCE DE LEITE",
-        "preco": "29",
-        "descricao": "Massa folhada crocante alternada com doce de leite e servida com sorvete artesanal de baunilha."
+        "descricao": "Massa folhada crocante alternada com doce de leite e servida com sorvete a\u0000esanal de baunilha. MACARON PETIT COM",
+        "preco": "29"
     },
     {
-        "prato": "MACARON PETIT COM SORVETE DE AVELÃ",
-        "preco": "23 | 35",
-        "descricao": "Biscoito de merengue de castanha, coberto com sorvete artesanal de avelã, calda de chocolate e amêndoas laminadas."
+        "prato": "SORVETE DE AVELÃ",
+        "descricao": "Biscoito de merengue de castanha, cobe\u0000o com sorvete a\u0000esanal de avelã, calda de chocolate e amêndoas laminadas.",
+        "preco": "23 | 35"
     },
     {
         "prato": "SUPREME DE PISTACHE",
-        "preco": "34",
-        "descricao": "Massa de brownie, creme de ninho, pasta de castanha trufada e ganache de chocolate branco e pistache. Finalizada com calda de cacau."
+        "descricao": "MACARON PETIT COM SORVETE DE AVELÃ Massa de brownie, creme de ninho, pasta de castanha trufada e ganache de chocolate branco e pistache. Finalizada com calda de cacau.",
+        "preco": "34"
     },
     {
         "prato": "COCADA MARIA BONITA",
-        "preco": "33",
-        "descricao": "Cocada cremosa ao forno, servida com sorvete artesanal de tapioca sobre castanha de caju. Acompanha calda de maracujá."
+        "descricao": "Cocada cremosa ao forno, servida com sorvete a\u0000esanal de tapioca sobre castanha de caju. Acompanha calda de maracujá.",
+        "preco": "33"
     },
     {
         "prato": "CARTOLA CAMARÕES",
-        "preco": "30",
-        "descricao": "Banana assada, ganache de chocolate branco e castanha de caju empanados. Servidos sobre creme de queijo manteiga, com sorvete de baunilha e toque de canela."
+        "descricao": "Banana assada, ganache de chocolate branco e castanha de caju empanados. Servidos sobre creme de queijo manteiga, com sorvete de baunilha e toque de canela.",
+        "preco": "30"
     },
     {
         "prato": "CREME DE PAPAYA",
-        "preco": "29",
-        "descricao": "Com licor de cassis e crocante de cereais."
+        "descricao": "Com licor de cassis e crocante de cereais. SORVETE DE DOCE DE LEITE",
+        "preco": "29"
     },
     {
-        "prato": "SORVETE DE DOCE DE LEITE MARMORIZADO",
-        "preco": "21",
-        "descricao": "Acompanha calda de chocolate e amêndoas."
-    },
-    {
-        "prato": "SORVETE ARTESANAL",
-        "preco": "18",
-        "descricao": "Avelã, nata goiaba, chocolate, baunilha, creme crocante, tapioca."
+        "prato": "MARMORIZADO",
+        "descricao": "Acompanha calda de chocolate e amêndoas.",
+        "preco": "21"
     },
     {
         "prato": "SORVETE ARTESANAL",
-        "preco": "20",
-        "descricao": "/sem açúcar e sem lactose Sorvete artesanal de morango adoçado com stevia."
+        "descricao": "Avelã, nata goiaba, chocolate, baunilha, creme crocante, tapioca.",
+        "preco": "18"
+    },
+    {
+        "prato": "SORVETE ARTESANAL",
+        "descricao": "/sem açúcar e sem lactose Sorvete a\u0000esanal de morango adoçado com stevia.",
+        "preco": "20"
     },
     {
         "prato": "BROWNIE VEGANO",
-        "preco": "26",
-        "descricao": "Brownie de cacau com massa de jerimum. Acompanha cocadinha cremosa."
+        "descricao": "Brownie de cacau com massa de jerimum. Acompanha cocadinha cremosa.",
+        "preco": "26"
     },
     {
         "prato": "MOUSSE DIET",
-        "preco": "23",
-        "descricao": "Mousse de chocolate, creme de queijo e calda de chocolate cobertos com castanhas."
+        "descricao": "Mousse de chocolate, creme de queijo e calda de chocolate cobe\u0000os com castanhas.",
+        "preco": "23"
     },
     {
         "prato": "SÓ UM DOCINHO",
-        "preco": "16 | 30",
-        "descricao": "Para quem quer adoçar o paladar e acompanhar o cafezinho, 2 ou 4 unidades de tubinhos crocantes feitos com massa do nosso pastel. Os recheios são de pistache ou doce de leite salgado com crocante de amendoim."
+        "descricao": "Para quem quer adoçar o paladar e acompanhar o cafezinho, 2 ou 4 unidades de tubinhos crocantes feitos com massa do nosso pastel. Os recheios são de pistache ou doce de leite salgado com crocante de amendoim.",
+        "preco": "16 | 30"
     }
 ]

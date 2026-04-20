@@ -1,7 +1,8 @@
 # visualize_interactive.py
+import os
+
 import networkx as nx
 from pyvis.network import Network
-import os
 
 
 def generate_interactive_graph(file_path):

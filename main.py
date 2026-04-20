@@ -1,30 +1,29 @@
-import os
-from ner_processor import build_graph
+from __future__ import annotations
+
+import logging
+from pathlib import Path
+
 import networkx as nx
 
+from graph import build_graph
 
-def main():
-    print("--- Iniciando Pipeline de Extração de Restaurantes ---")
-    print("\n1. Extraindo dados dos arquivos HTML...")
-    
+ROOT = Path(__file__).resolve().parent
+MENU_FILES = [
+    ROOT / "json_graphs" / "bambu.json",
+    ROOT / "json_graphs" / "camaroes.json",
+]
+OUTPUT_FILE = ROOT / "restaurant_graph.gexf"
 
-    print("\n2. Processando descrições com NER e construindo o Grafo (NetworkX)...")
-    base_path = os.path.dirname(os.path.abspath(__file__))
-    input_files = [
-        os.path.join(base_path, "json_graphs/bambu.json"),
-        os.path.join(base_path, "json_graphs/camaroes.json"),
-    ]
 
-    graph = build_graph(input_files)
+def main() -> None:
+    logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
 
-    # Save & Summary
-    output_path = os.path.join(base_path, "restaurant_graph.gexf")
-    nx.write_gexf(graph, output_path)
+    graph = build_graph(MENU_FILES)
+    nx.write_gexf(graph, OUTPUT_FILE)
 
-    print("\n--- Pipeline concluída com sucesso! ---")
-    print(f"Total de nós no Grafo: {graph.number_of_nodes()}")
-    print(f"Total de arestas no Grafo: {graph.number_of_edges()}")
-    print(f"Arquivo do Grafo salvo em: {output_path}")
+    print(f"Graph saved to {OUTPUT_FILE}")
+    print(f"  nodes: {graph.number_of_nodes()}")
+    print(f"  edges: {graph.number_of_edges()}")
 
 
 if __name__ == "__main__":
