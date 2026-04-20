@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Generated graph artifacts
+*.gexf
+grafo_*.html
+graph_*.html
+graph_visualization.png
+lib/
