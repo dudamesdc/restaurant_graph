@@ -8,6 +8,8 @@ import networkx as nx
 from graph import build_graph, build_report, format_report
 from scrapers import regenerate_menus
 from viz import (
+    DashboardAssets,
+    render_dashboard,
     render_degree_distribution,
     render_ingredient_comparison,
     render_interactive,
@@ -33,6 +35,7 @@ DEGREE_PLOT = ANALYSIS_DIR / "degree_distribution.png"
 INGREDIENT_PLOT = ANALYSIS_DIR / "ingredient_comparison.png"
 SHARED_PLOT = ANALYSIS_DIR / "shared_ingredients_network.png"
 RANDOM_PLOT = ANALYSIS_DIR / "random_comparison.png"
+DASHBOARD_FILE = OUTPUT_DIR / "index.html"
 
 
 def main() -> None:
@@ -57,12 +60,26 @@ def main() -> None:
     render_shared_ingredients_network(graph, report, SHARED_PLOT)
     render_random_comparison(report.random_baselines, RANDOM_PLOT)
 
+    render_dashboard(
+        report,
+        DashboardAssets(
+            static_png=STATIC_FILE.relative_to(OUTPUT_DIR).as_posix(),
+            interactive_html=INTERACTIVE_FILE.relative_to(OUTPUT_DIR).as_posix(),
+            degree_plot=DEGREE_PLOT.relative_to(OUTPUT_DIR).as_posix(),
+            ingredient_plot=INGREDIENT_PLOT.relative_to(OUTPUT_DIR).as_posix(),
+            shared_plot=SHARED_PLOT.relative_to(OUTPUT_DIR).as_posix(),
+            random_plot=RANDOM_PLOT.relative_to(OUTPUT_DIR).as_posix(),
+        ),
+        DASHBOARD_FILE,
+    )
+
     nodes, edges = graph.number_of_nodes(), graph.number_of_edges()
     print(f"Graph:       {GRAPH_FILE}  ({nodes} nodes, {edges} edges)")
     print(f"Static:      {STATIC_FILE}")
     print(f"Interactive: {INTERACTIVE_FILE}")
     print(f"Metrics:     {METRICS_FILE}")
     print(f"Analysis:    {ANALYSIS_DIR}")
+    print(f"Dashboard:   {DASHBOARD_FILE}")
 
 
 if __name__ == "__main__":
