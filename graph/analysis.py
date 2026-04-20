@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+from collections.abc import Callable
 from dataclasses import dataclass, field
 from statistics import mean
 
@@ -44,6 +45,17 @@ class ComparativeReport:
     only_bambu: list[str]
     only_camaroes: list[str]
     jaccard: float
+    random_baselines: list[RandomBaseline] = field(default_factory=list)
+
+
+@dataclass(frozen=True)
+class RandomBaseline:
+    """Clustering and avg shortest path averaged over `trials` random graphs."""
+
+    name: str
+    clustering: float
+    avg_path: float | None
+    params: str
 
 
 def simplify(graph: nx.MultiDiGraph) -> nx.Graph:
@@ -164,7 +176,81 @@ def build_report(graph: nx.MultiDiGraph) -> ComparativeReport:
         only_bambu=sorted(only_bambu),
         only_camaroes=sorted(only_camaroes),
         jaccard=jaccard,
+        random_baselines=compare_to_random(graph),
     )
+
+
+def compare_to_random(
+    graph: nx.MultiDiGraph,
+    *,
+    trials: int = 5,
+    rewire_prob: float = 0.1,
+    seed: int = 42,
+) -> list[RandomBaseline]:
+    """Compare the real graph's clustering and avg path against ER and WS baselines.
+
+    Both random models are generated with the same number of nodes `n` as the
+    real graph and matching its average degree `k`. Results are averaged over
+    `trials` runs. ER tests *“could this be random chance?”*; WS tests
+    *“does it look like a canonical small-world?”*.
+    """
+    simple = simplify(graph)
+    n = simple.number_of_nodes()
+    if n < 2:
+        return []
+
+    avg_deg = 2 * simple.number_of_edges() / n
+    k = max(2, 2 * round(avg_deg / 2))  # WS needs an even degree
+    p_er = avg_deg / (n - 1) if n > 1 else 0.0
+
+    real = _clustering_and_path_lcc(simple)
+
+    er_clust, er_path = _avg_random_stats(
+        lambda trial: nx.erdos_renyi_graph(n, p_er, seed=seed + trial),
+        trials,
+    )
+    ws_clust, ws_path = _avg_random_stats(
+        lambda trial: nx.watts_strogatz_graph(n, k, rewire_prob, seed=seed + trial),
+        trials,
+    )
+
+    return [
+        RandomBaseline("Real", real[0], real[1], params=f"n={n}, k≈{avg_deg:.2f}"),
+        RandomBaseline("Erdős–Rényi", er_clust, er_path, params=f"n={n}, p={p_er:.4f}"),
+        RandomBaseline(
+            "Watts–Strogatz",
+            ws_clust,
+            ws_path,
+            params=f"n={n}, k={k}, p_rewire={rewire_prob}",
+        ),
+    ]
+
+
+def _avg_random_stats(
+    generator: Callable[[int], nx.Graph],
+    trials: int,
+) -> tuple[float, float | None]:
+    clusterings: list[float] = []
+    paths: list[float] = []
+    for trial in range(trials):
+        g = generator(trial)
+        clust, path = _clustering_and_path_lcc(g)
+        clusterings.append(clust)
+        if path is not None:
+            paths.append(path)
+    avg_clust = mean(clusterings) if clusterings else 0.0
+    avg_path = mean(paths) if paths else None
+    return avg_clust, avg_path
+
+
+def _clustering_and_path_lcc(simple: nx.Graph) -> tuple[float, float | None]:
+    clustering = nx.average_clustering(simple) if simple.number_of_nodes() else 0.0
+    components = list(nx.connected_components(simple))
+    if not components:
+        return clustering, None
+    lcc = simple.subgraph(max(components, key=len)).copy()
+    path = nx.average_shortest_path_length(lcc) if lcc.number_of_nodes() > 1 else None
+    return clustering, path
 
 
 def format_report(report: ComparativeReport) -> str:
@@ -185,6 +271,18 @@ def format_report(report: ComparativeReport) -> str:
         lines.append(f"  só Bambu    : {', '.join(report.only_bambu)}")
     if report.only_camaroes:
         lines.append(f"  só Camarões : {', '.join(report.only_camaroes)}")
+
+    if report.random_baselines:
+        lines.append("")
+        lines.append("== Comparação com grafos aleatórios (média de 5 ensaios) ==")
+        lines.append(f"{'Modelo':<18} {'Clustering':>12} {'Caminho médio':>16}  Parâmetros")
+        for baseline in report.random_baselines:
+            path_str = "n/d" if baseline.avg_path is None else f"{baseline.avg_path:.3f}"
+            lines.append(
+                f"{baseline.name:<18} "
+                f"{baseline.clustering:>12.4f} "
+                f"{path_str:>16}  {baseline.params}"
+            )
     return "\n".join(lines)
 
 

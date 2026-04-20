@@ -7,7 +7,7 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 import networkx as nx
 
-from graph.analysis import ComparativeReport
+from graph.analysis import ComparativeReport, RandomBaseline
 
 from ._palette import COLOR_BAMBU, COLOR_CAMAROES, ingredient_color
 
@@ -131,6 +131,54 @@ def render_shared_ingredients_network(
     )
     ax.set_title(f"Top {len(shared_by_degree)} ingredientes compartilhados e seus pratos")
     ax.axis("off")
+    _save(fig, output_file, dpi)
+
+
+def render_random_comparison(
+    baselines: list[RandomBaseline],
+    output_file: Path,
+    *,
+    dpi: int = 160,
+) -> None:
+    """Side-by-side bars comparing real vs ER vs WS on clustering and avg path."""
+    if not baselines:
+        logger.warning("no random baselines to plot — skipping %s", output_file)
+        return
+
+    names = [b.name for b in baselines]
+    clusterings = [b.clustering for b in baselines]
+    paths = [b.avg_path if b.avg_path is not None else 0.0 for b in baselines]
+    colors = ["#264653", "#e9c46a", "#2a9d8f"]
+
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(11, 5))
+
+    bars1 = ax1.bar(names, clusterings, color=colors)
+    ax1.set_title("Clustering médio")
+    ax1.set_ylabel("C")
+    for bar, value in zip(bars1, clusterings, strict=True):
+        ax1.text(
+            bar.get_x() + bar.get_width() / 2,
+            bar.get_height(),
+            f"{value:.3f}",
+            ha="center",
+            va="bottom",
+            fontsize=9,
+        )
+
+    bars2 = ax2.bar(names, paths, color=colors)
+    ax2.set_title("Caminho médio na LCC")
+    ax2.set_ylabel("L")
+    for bar, value in zip(bars2, paths, strict=True):
+        ax2.text(
+            bar.get_x() + bar.get_width() / 2,
+            bar.get_height(),
+            f"{value:.2f}",
+            ha="center",
+            va="bottom",
+            fontsize=9,
+        )
+
+    fig.suptitle("Rede real vs. grafos aleatórios (ER / Watts-Strogatz)")
     _save(fig, output_file, dpi)
 
 
