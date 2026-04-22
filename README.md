@@ -9,12 +9,14 @@ rede bipartida Prato ↔ Ingrediente e analisando sua estrutura com NetworkX.
 ## Integrantes do grupo
 
 - *João Pedro Araújo Ramalho*
-- *Nome 2*
-- *Nome 3*
+- *Kiev Luiz Freitas Guedes*
+- *Maria Eduarda Silva da Costa*
 
 ## Vídeo de apresentação
 
-[Assistir no Loom](https://www.loom.com/share/PLACEHOLDER)
+[Assistir no Loom](https://www.loom.com/share/5bfce96f186a4ae5ac158dda93bb163a)
+
+[Apresentação Canva](https://canva.link/sc4f2m44dba8q7o)
 
 ---
 
@@ -79,16 +81,16 @@ uv run python -m scrapers
 
 | Métrica            | Geral | Coco Bambu | Camarões |
 |--------------------|------:|-----------:|---------:|
-| Pratos             |   560 |        478 |       82 |
-| Ingredientes       |    72 |         67 |       54 |
-| Densidade          | 0.009 |      0.010 |  **0.094** |
-| Grau médio         |  5.96 |       5.20 |  **12.72** |
+| Pratos             |   303 |        230 |       73 |
+| Ingredientes       |    71 |         66 |       53 |
+| Densidade          | 0.027 |      0.032 |  **0.107** |
+| Grau médio         |  9.94 |       9.41 |  **13.33** |
 | Diâmetro (LCC)     |     7 |          7 |        5 |
-| Caminho médio (LCC)|  2.60 |       2.62 |     2.17 |
-| Clustering médio   | 0.267 |      0.231 |  **0.498** |
-| Transitividade     | 0.183 |      0.212 |    0.357 |
+| Caminho médio (LCC)|  2.58 |       2.61 |     2.17 |
+| Clustering médio   | 0.458 |      0.435 |  **0.533** |
+| Transitividade     | 0.175 |      0.206 |    0.352 |
 
-Jaccard de ingredientes (Bambu ∩ Camarões): **0.681**.
+Jaccard de ingredientes (Bambu ∩ Camarões): **0.676**.
 
 ### Rede completa
 
@@ -108,7 +110,7 @@ a maior parte das arestas.
 
 ![Ingredientes únicos vs compartilhados](docs/images/ingredient_comparison.png)
 
-Dos 72 ingredientes totais, **49 (68%)** aparecem nos dois restaurantes. Só
+Dos 71 ingredientes totais, **48 (67.6%)** aparecem nos dois restaurantes. Só
 5 são exclusivos do Camarões (`gorgonzola, jerimum, milho, orégano,
 provolone`), contra 18 exclusivos do Bambu.
 
@@ -122,29 +124,28 @@ provolone`), contra 18 exclusivos do Bambu.
 
 | Modelo           | Clustering | Caminho médio | Parâmetros               |
 |------------------|-----------:|--------------:|--------------------------|
-| **Real**         |   **0.267**|     **2.601** | n=632, k≈5.96            |
-| Erdős–Rényi      |      0.009 |         3.828 | n=632, p=0.0094          |
-| Watts–Strogatz   |      0.444 |         5.627 | n=632, k=6, p_rewire=0.1 |
+| **Real**         |   **0.458**|     **2.584** | n=374, k≈9.94            |
+| Erdős–Rényi      |      0.026 |         2.825 | n=374, p=0.0266          |
+| Watts–Strogatz   |      0.490 |         3.692 | n=374, k=10, p_rewire=0.1 |
 
 ## Análise e conclusões
 
-- **Mesmo vocabulário, gramáticas diferentes.** Jaccard de 0.68 diz que os
+- **Mesmo vocabulário, gramáticas diferentes.** Jaccard de ~0.68 diz que os
   dois restaurantes não se distinguem pelos ingredientes que usam, mas pela
   frequência com que os combinam.
-- **Camarões é uma rede especialista.** Densidade ~10× maior, clustering
-  2× maior e diâmetro menor — uma identidade temática que aparece
-  diretamente na topologia, centrada no hub `camarão` (80 arestas em 82
-  pratos).
+- **Camarões é uma rede especialista.** Densidade ~3.5× maior, clustering
+  maior e diâmetro menor — uma identidade temática que aparece
+  diretamente na topologia, centrada no hub `camarão` (81 arestas).
 - **Coco Bambu é uma rede generalista.** Muito maior em nós absolutos,
   porém mais esparsa, com pratos cobrindo várias cozinhas e menos
   interconectados via ingredientes comuns.
-- **A rede é *small-world* real, não aleatória.** Clustering ~30× acima do
-  ER mostra estrutura genuína; o caminho médio curtíssimo (2.60, menor
+- **A rede é *small-world* real, não aleatória.** Clustering ~17× acima do
+  ER mostra estrutura genuína; o caminho médio curtíssimo (2.58, menor
   inclusive que o WS) sugere comportamento *scale-free* por conta dos hubs
-  (`molho`, `arroz`, `camarão`).
+  (`camarão`, `molho`, `arroz`).
 - **Centralidades além do grau revelam pontes ocultas.** `limão` tem só
-  o 8º maior grau mas a **maior betweenness global** — é um ingrediente
-  ponte que conecta partes distantes do cardápio.
+  o 10º maior grau, mas a **2ª maior betweenness global** (e a maior no Bambu) — é
+  um ingrediente ponte que conecta partes distantes do cardápio.
 
 A análise completa (com tabelas, interpretação e considerações
 metodológicas) está em [`docs/analise.md`](docs/analise.md). Para uma visão
@@ -193,3 +194,8 @@ restaurant_graph/
 
 Centralidades avançadas (betweenness, closeness, eigenvector, PageRank)
 estendem a análise além do conteúdo programático.
+
+## Responsáveis
+
+- ETL dos dados e construção do grafo: Maria Eduarda
+- Visualização e Análise: João Pedro e Kiev Luiz
