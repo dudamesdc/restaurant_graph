@@ -15,7 +15,9 @@ class DashboardAssets:
     """Filenames of the artefacts embedded in the dashboard (relative to it)."""
 
     static_png: str
-    interactive_html: str
+    interactive_full: str
+    interactive_lcc: str
+    interactive_scaled: str
     degree_plot: str
     ingredient_plot: str
     shared_plot: str
@@ -31,6 +33,17 @@ def render_dashboard(
     output_file.parent.mkdir(parents=True, exist_ok=True)
     output_file.write_text(_build_html(report, assets), encoding="utf-8")
     logger.info("wrote dashboard to %s", output_file)
+
+
+_JS = """
+function setView(view, url) {
+  document.getElementById('graph-frame').src = url;
+  document.getElementById('external-link').href = url;
+  const btns = document.querySelectorAll('.view-selector .btn');
+  btns.forEach(b => b.classList.remove('active'));
+  event.currentTarget.classList.add('active');
+}
+"""
 
 
 def _build_html(report: ComparativeReport, assets: DashboardAssets) -> str:
@@ -57,18 +70,28 @@ def _build_html(report: ComparativeReport, assets: DashboardAssets) -> str:
   </section>
 
   <section>
-    <h2>2. Grafo completo</h2>
-    <figure>
-      <img src="{assets.static_png}" alt="Grafo estático completo">
-      <figcaption>
-        Pratos coloridos por restaurante (Bambu · Camarões) e ingredientes por
-        categoria da taxonomia. Rótulos aparecem em hubs (grau &gt; 8).
-      </figcaption>
-    </figure>
-    <p>
-      Versão interativa (arraste, busque, filtre):
-      <a href="{assets.interactive_html}" target="_blank">{assets.interactive_html}</a>
+    <h2>2. Explorador de Rede Interativo</h2>
+    <div class="explorer-container">
+      <div class="explorer-header">
+        <div class="view-selector">
+          <button class="btn active" onclick="setView('full', '{assets.interactive_full}')" title="Grafo completo original">Completo</button>
+          <button class="btn" onclick="setView('lcc', '{assets.interactive_lcc}')" title="Apenas a maior componente conectada">Componente Gigante</button>
+          <button class="btn" onclick="setView('scaled', '{assets.interactive_scaled}')" title="Tamanho do ingrediente por número de conexões">Influência (Grau)</button>
+        </div>
+        <a id="external-link" href="{assets.interactive_full}" target="_blank" class="external-btn">
+          <span>&#8599;</span> Tela Cheia
+        </a>
+      </div>
+      <div class="iframe-wrapper">
+        <iframe id="graph-frame" src="{assets.interactive_full}"></iframe>
+      </div>
+    </div>
+    <p class="note">
+      Utilize o scroll para zoom, arraste para navegar. Clique em um nó para destacar conexões.
     </p>
+    <script>
+      {_JS}
+    </script>
   </section>
 
   <section>
@@ -252,6 +275,17 @@ tbody th { width: 40%; font-weight: 500; color: var(--muted); }
         padding: 0.8rem 1rem; }
 .card h3 { margin: 0 0 0.5rem; font-size: 1rem; color: var(--accent); }
 .card table { font-size: 0.85rem; }
+
+/* Explorador */
+.explorer-container { background: var(--card); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; margin-bottom: 1rem; }
+.explorer-header { display: flex; justify-content: space-between; align-items: center; padding: 0.8rem 1rem; background: #f1f1f1; border-bottom: 1px solid var(--line); }
+.view-selector { display: flex; gap: 0.5rem; }
+.btn { padding: 0.4rem 0.8rem; border: 1px solid var(--line); background: white; border-radius: 4px; cursor: pointer; font-size: 0.85rem; transition: all 0.2s; }
+.btn:hover { background: #eee; }
+.btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+.external-btn { text-decoration: none; font-size: 0.85rem; color: var(--accent); font-weight: 500; }
+.iframe-wrapper { position: relative; width: 100%; height: 650px; background: #1a1a1a; }
+#graph-frame { width: 100%; height: 100%; border: none; }
 footer { border-top: 1px solid var(--line); background: var(--card);
          padding: 1rem 2rem; color: var(--muted); font-size: 0.85rem; text-align: center; }
 @media (max-width: 700px) { .two-col { grid-template-columns: 1fr; } }

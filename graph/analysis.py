@@ -68,6 +68,16 @@ def simplify(graph: nx.MultiDiGraph) -> nx.Graph:
     return simple
 
 
+def get_lcc_subgraph(graph: nx.MultiDiGraph) -> nx.MultiDiGraph:
+    """Return the subgraph containing only the nodes of the Largest Connected Component."""
+    simple = simplify(graph)
+    components = list(nx.connected_components(simple))
+    if not components:
+        return graph.clear_edges().copy()
+    lcc_nodes = max(components, key=len)
+    return graph.subgraph(lcc_nodes).copy()
+
+
 def restaurant_subgraph(graph: nx.MultiDiGraph, restaurant: str) -> nx.MultiDiGraph:
     """Return the subgraph of dishes from one restaurant plus their ingredients."""
     dishes = [

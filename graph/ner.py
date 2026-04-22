@@ -50,10 +50,11 @@ class IngredientNER:
         seen: set[str] = set()
         mentions: list[IngredientMention] = []
         for ent in entities:
-            if ent.text in seen:
+            name = _normalize_name(ent.text)
+            if name in seen:
                 continue
-            seen.add(ent.text)
-            mentions.append(IngredientMention(text=ent.text))
+            seen.add(name)
+            mentions.append(IngredientMention(text=name))
 
         relations: list[IngredientRelation] = []
         for i in range(len(entities)):
@@ -64,7 +65,10 @@ class IngredientNER:
                 label = _classify_span(span_between)
                 if label is None:
                     continue
-                relations.append(IngredientRelation(source=e1.text, target=e2.text, label=label))
+                
+                src = _normalize_name(e1.text)
+                tgt = _normalize_name(e2.text)
+                relations.append(IngredientRelation(source=src, target=tgt, label=label))
 
         return mentions, relations
 
@@ -82,3 +86,10 @@ def _classify_span(span_between: str) -> str | None:
         if any(keyword in span_between for keyword in keywords):
             return label
     return None
+
+
+def _normalize_name(name: str) -> str:
+    """Apply manual normalization rules per user request."""
+    if name == "camarões":
+        return "camarão"
+    return name
